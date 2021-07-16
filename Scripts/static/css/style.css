@@ -1,0 +1,61 @@
+body { font-family: 'Open Sans', sans-serif; font-size: 15px; font-weight: 400; color: #333; background-color: rgb(202, 202, 202);line-height: 30px; text-align: center; }
+h1 {font-size: 28px; color: rgb(0, 0, 0);}
+
+/* Navbar Specific Bootstrap */
+.navbar {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Navbar Links */
+.navbar a {
+  float: left;
+  color: #ffffff;
+  text-align: center;
+  padding: 18px 22px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.navbar a:hover {
+  background-color: rgb(158, 158, 158);
+  color: rgb(0, 0, 0);
+}
+
+/* Navbar Home Button */
+
+.navbar a.home {
+  background-color: #856dc0;
+  color: rgb(255, 255, 255);
+}
+
+/* Contributor Bio Specific Bootstrap */
+.column {
+  float: left;
+  width: 49%;
+  margin-bottom: 15px;
+  padding: 0 8px;
+}
+
+.box {
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+  margin: 8px;
+  background-color: rgb(236, 236, 236);
+}
+
+.container {
+  padding: 0 16px;
+}
+
+/* About Page Specific Bootstrap */
+
+.about_column {
+  float: left;
+  width: 98%;
+  margin-bottom: 15px;
+  padding: 0 8px;
+}
+
+.about_text{
+  text-align: left;
+}
