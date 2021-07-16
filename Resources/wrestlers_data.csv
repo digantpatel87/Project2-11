@@ -1,0 +1,897 @@
+Rank,Name,Height,Weight,Rating,Votes,City,State,Country
+2,Kenta Kobashi,186,115,9.73,623,Fukuchiyama, Kyoto, Japan
+3,Mitsuharu Misawa,185,110,9.72,525,Yubari, Hokkaido, Japan
+4,Manami Toyota,168,72,9.7,219,Masuda, Shimane, Japan
+5,Kazuchika Okada,191,107,9.69,840,Anjo, Aichi, Japan
+6,Toshiaki Kawada,183,105,9.68,265,Fujioka, Tochigi, Japan
+7,Hiroshi Tanahashi,181,101,9.68,755,Ogaki, Gifu, Japan
+8,Jaguar Yokota,159,58,9.65,39,Tokyo, Japan,
+9,Jumbo Tsuruta,194,127,9.64,194,Yamanashi, Japan,
+10,Mayu Iwatani,163,53,9.64,207,Mine, Yamaguchi, Japan
+11,Meiko Satomura,157,68,9.63,201,Niigata, Japan,
+12,Akira Hokuto,168,63,9.62,92,Yoshikawa, Saitama, Japan
+13,Hiroyuki Unno,173,76,9.62,105,Hatogaya, Saitama, Japan
+14,Shawn Michaels,185,103,9.61,1766,Chandler, Arizona, USA
+15,Takumi Iroha,170,72,9.59,40,Fukuoka, Japan,
+16,Jushin Thunder Liger,170,92,9.59,629,Hiroshima, Japan,
+17,Arisa Nakajima,160,60,9.57,67,Chichibu, Saitama, Japan
+18,Lou Thesz,185,102,9.56,128,Barnat, Michigan, USA
+19,Megumi Kudo,162,60,9.56,65,Koshiyaga, Saitama, Japan
+20,Rikidozan,176,116,9.54,86,South Hamgyong, Korea,
+21,Toshiyo Yamada,168,70,9.53,31,Saitama, Japan,
+22,Paul Heyman,180,106,9.53,668,Scarsdale, New York, USA
+23,Chris Jericho,180,103,9.53,1834,Manhasset, New York, USA
+24,Bobby Heenan,183,105,9.51,302,Chicago, Illinois, USA
+25,El Santo,175,95,9.51,87,Tulancingo, Hidalgo, Mexiko
+26,ASUKA,174,67,9.51,73,Yokohama, Kanagawa, Japan
+27,Undertaker,208,136,9.51,2117,Houston, Texas, USA
+28,Io Shirai,156,55,9.51,368,Kamakura, Kanagawa, Japan
+29,Eddie Guerrero,172,100,9.49,982,El Paso, Texas, USA
+30,Minoru Suzuki,178,102,9.49,479,Yokohama, Kanagawa, Japan
+31,Tetsuya Naito,180,102,9.49,573,Tokyo, Japan,
+32,Destroyer,178,110,9.48,32,Buffalo, New York, USA
+33,Katsuyori Shibata,183,95,9.48,398,Kuwana, Mie, Japan
+34,Tomohiro Ishii,170,100,9.48,525,Kawasaki, Kanagawa, Japan
+35,Steve Austin,188,116,9.47,1050,Austin, Texas, USA
+36,First Tiger Mask,173,98,9.47,163,Shimonoseki, Yamaguchi, Japan
+38,AJ Styles,180,99,9.46,1535,Jacksonville, North Carolina, USA
+39,Kenny Omega,183,99,9.46,961,Transcona, Manitoba, Canada
+40,WALTER,193,134,9.46,384,Wien, Österreich,
+41,Daniel Bryan,173,95,9.45,1436,Aberdeen, Washington, USA
+42,Kurt Angle,178,100,9.45,1108,Pittsburgh, Pennsylvania, USA
+43,Hiromu Takahashi,171,88,9.45,322,Hachioji, Tokyo, Japan
+44,Gene Okerlund,175,72,9.42,176,Robbinsdale, Minnesota, USA
+46,Bret Hart,183,107,9.42,1109,Calgary, Alberta, Canada
+47,Karl Gotch,184,110,9.42,82,Antwerpen, Antwerpen, Belgien
+49,Kota Ibushi,181,93,9.42,592,Kagoshima, Japan,
+50,Gorgeous George,173,94,9.41,90,Butte, Nebraska, USA
+51,Asuka,160,62,9.41,541,Osaka, Japan,
+52,Howard Finkel,173,76,9.4,206,New York City, New York, USA
+53,Chigusa Nagayo,165,83,9.4,44,Omura, Nagasaki, Japan
+54,CM Punk,183,99,9.39,1713,Chicago, Illinois, USA
+55,Bruno Sammartino,178,120,9.39,199,Pizzoferrato, Abruzzen, Italien
+56,Ricky Steamboat,178,107,9.38,374,West Point, New York, USA
+57,Negro Casas,170,76,9.38,44,Mexico City, Distrito Federal, Mexiko
+58,Edge,193,108,9.37,1482,Orangeville, Ontario, Canada
+59,Naomichi Marufuji,176,90,9.37,381,Saitama, Japan,
+60,Kento Miyahara,186,102,9.37,185,Fukuoka, Japan,
+61,Kairi Sane,155,52,9.34,261,Hikari, Yamaguchi, Japan
+62,Takuya Nomura,176,92,9.34,49,Tochigi, Japan,
+63,Buddy Rogers,183,107,9.33,72,Camden, New Jersey, USA
+64,Masashi Takeda,170,85,9.33,79,Machida, Tokyo, Japan
+65,Curt Hennig,190,118,9.31,525,Minneapolis, Minnesota, USA
+66,Keiji Muto,188,110,9.3,271,Fujiyoshida, Yamanashi, Japan
+67,Jim Ross,183,110,9.29,499,Fort Bragg, California, USA
+68,Shingo Takagi,178,95,9.29,358,Chuo, Yamanashi, Japan
+69,Stan Hansen,192,138,9.28,197,Knox City, Texas, USA
+70,Terry Funk,185,112,9.28,347,Hammond, Indiana, USA
+71,Kagetsu,159,62,9.28,91,Settsu, Osaka, Japan
+72,Aja Kong,165,103,9.28,137,Tokyo, Japan,
+73,Go Shiozaki,183,110,9.28,257,Kumamoto, Japan,
+74,Masaaki Mochizuki,175,85,9.28,82,Tokyo, Japan,
+75,Yuji Okabayashi,175,120,9.28,95,Nankoku, Kochi, Japan
+76,Shinya Hashimoto,183,135,9.27,111,Toki, Gifu, Japan
+77,Arisa Hoshiki,167,52,9.27,66,Funabashi, Chiba, Japan
+78,Daisuke Sekimoto,175,115,9.27,196,Osaka, Japan,
+80,Ben-K,174,99,9.26,42,Sakura, Chiba, Japan
+81,Jun Akiyama,188,110,9.26,199,Izuki, Osaka, Japan
+82,Katsuhiko Nakajima,175,87,9.26,205,Fukuoka, Japan,
+83,Owen Hart,178,103,9.25,528,Calgary, Alberta, Canada
+84,Yoshiaki Fujiwara,185,108,9.24,37,Kitakami, Iwate, Japan
+85,King Nakamura,188,100,9.24,802,Mineyama, Kyoto, Japan
+86,Takashi Sugiura,178,89,9.24,152,Nagoya, Aichi, Japan
+87,Mizuki,158,40,9.24,36,Kobe, Hyogo, Japan
+88,Rey Fenix,177,75,9.23,293,Mexico City, Distrito Federal, Mexiko
+89,Cesaro,195,110,9.23,1175,Luzern, Schweiz,
+90,Yuki Ueno,174,78,9.23,25,Osaka, Japan,
+91,Hayabusa,183,106,9.22,157,Yatsushiro, Kumamoto, Japan
+92,The Rock,193,120,9.22,1271,Hayward, California, USA
+94,Nick Bockwinkel,178,120,9.2,60,St. Paul, Minnesota, USA
+95,Penta El Zero Miedo,180,91,9.2,337,Mexico City, Distrito Federal, Mexiko
+96,Chris Hero,193,122,9.2,670,Dayton, Ohio, USA
+97,Rina Yamashita,165,77,9.2,29,Kagoshima, Japan,
+99,Stu Hart,178,105,9.19,112,Saskatoon, Saskatchewan, Canada
+100,Shuji Ishikawa,195,130,9.19,98,Oshu, Iwate, Japan
+102,Genichiro Tenryu,189,120,9.18,119,Katsuyama, Fukui, Japan
+103,CIMA,174,82,9.18,201,Sakai, Osaka, Japan
+104,Mick Foley,188,135,9.17,877,Bloomington, Indiana, USA
+105,Kevin Owens,180,120,9.17,912,Saint-Jean-sur-Richelieu, Quebec, Canada
+106,Yuko Miyamoto,175,90,9.17,74,Hatsukaichi, Hiroshima, Japan
+107,Tsukasa Fujimoto,158,48,9.17,52,Sendai, Miyagi, Japan
+108,Sami Zayn,185,96,9.16,798,Laval, Quebec, Canada
+109,Austin Aries,175,91,9.15,516,Milwaukee, Wisconsin, USA
+110,Jake Lee,192,110,9.13,47,Kitami, Hokkaido, Japan
+111,Kensuke Sasaki,180,115,9.12,175,Fukuoka, Japan,
+112,Randy Savage,186,106,9.11,532,Columbus, Ohio, USA
+113,YAMATO,172,82,9.11,88,Ichinoseki, Iwate, Japan
+114,Hiroshi Hase,183,105,9.1,51,Oyabe, Toyama, Japan
+116,Jun Kasai,"173,5","91,5",9.1,127,Obihiro, Hokkaido, Japan
+117,Ric Flair,180,110,9.1,1085,Memphis, Tennessee, USA
+118,Bandido,170,83,9.09,89,Torreon, Coahuila, Mexiko
+120,Yuji Nagata,183,108,9.09,296,Togane, Chiba, Japan
+121,Gorilla Monsoon,198,182,9.08,114,New York City, New York, USA
+122,Dragon Lee,171,75,9.08,129,Tala, Jalisco, Mexiko
+123,Samoa Joe,188,127,9.08,871,Orange County, California, USA
+124,Vince McMahon,185,100,9.07,67,New York City, New York, USA
+125,Mike Quackenbush,183,87,9.07,241,West Lawn, Pennsylvania, USA
+126,Sting,191,114,9.07,817,Omaha, Nebraska, USA
+127,Maya Yukihi,164,57,9.06,32,Chiba, Japan,
+128,Great Sasuke,176,86,9.06,131,Morioka, Iwate, Japan
+129,Fuminori Abe,173,78,9.06,31,Setagaya, Tokyo, Japan
+131,Ted DiBiase,191,112,9.05,328,Miami Beach, Florida, USA
+132,Keith Lee,188,151,9.05,222,Wichita Falls, Texas, USA
+134,HARASHIMA,178,90,9.03,70,Ome, Tokyo, Japan
+135,Mayumi Ozaki,158,57,9.02,42,Kawaguchi, Saitama, Japan
+136,Momo Watanabe,156,53,9.02,123,Sagamihara, Kanagawa, Japan
+137,Trish Stratus,162,54,9.01,550,Richmond Hill, Ontario, Canada
+138,KENTA,174,85,9.01,508,Souka, Saitama, Japan
+139,Hana Kimura,164,58,9,106,Yokohama, Kanagawa, Japan
+140,Jesse Ventura,193,123,9,132,Minneapolis, Minnesota, USA
+141,Freddie Blassie,178,100,9,70,St. Louis, Missouri, USA
+142,Nobuhiko Takada,183,100,9,39,Yokohama, Kanagawa, Japan
+143,Tsukushi Haruka,146,44,9,32,Kamisu, Ibaraki, Japan
+144,Johnny Gargano,178,90,9,437,Lakewood, Ohio, USA
+146,Harley Race,185,115,8.99,147,Kansas City, Missouri, USA
+148,Akira Taue,192,120,8.99,135,Chichibu, Saitama, Japan
+150,Alex Shelley,175,90,8.95,397,Detroit, Michigan, USA
+151,Demonic Flamita,170,75,8.95,61,Ciudad Nezahualcoyotl, Estado de Mexico, Mexiko
+152,Masato Tanaka,181,90,8.95,201,Wakayama, Japan,
+153,Reo Hazuki,154,52,8.94,47,Fukuoka, Japan,
+154,Vader,190,170,8.94,433,Lynwood, California, USA
+155,Charles Robinson,170,68,8.94,162,Charlotte, North Carolina, USA
+156,Bryce Remsburg,168,66,8.94,76,Palmyra, Pennsylvania, USA
+157,Shotaro Ashino,174,85,8.94,33,Nishitokyo, Tokyo, Japan
+158,Nanae Takahashi,165,65,8.94,34,Kawaguchi, Saitama, Japan
+159,Kushida,175,85,8.94,308,Tokyo, Japan,
+161,Andrade El Idolo,180,95,8.93,351,Gomez Palacio, Durango, Mexiko
+162,Kyle O'Reilly,180,91,8.93,360,Surrey, British Columbia, Canada
+163,Chris Benoit,175,101,8.92,968,Montreal, Quebec, Canada
+164,Jacob Fatu,187,136,8.92,36,California, USA,
+165,Jungle Kyona,156,62,8.92,89,Nagoya, Aichi, Japan
+166,Syuri,162,52,8.92,76,Ebina, Kanagawa, Japan
+167,Akito,175,84,8.92,25,Nagoya, Aichi, Japan
+168,Ares,180,98,8.91,191,Zürich, Schweiz,
+169,Wesna,175,89,8.91,120,Berlin, Deutschland,
+170,Shun Skywalker,180,85,8.91,31,Toki, Gifu, Japan
+173,Paul Bearer,180,109,8.87,258,Mobile, Alabama, USA
+174,Yuji Hino,178,120,8.87,51,Hirakata, Osaka, Japan
+175,Konosuke Takeshita,187,99,8.87,81,Osaka, Japan,
+176,Ultimo Dragon,172,83,8.86,206,Nagoya, Aichi, Japan
+177,El Hijo del Santo,169,73,8.85,52,Mexico City, Distrito Federal, Mexiko
+178,Takashi Sasaki,177,90,8.84,31,Osaka, Japan,
+179,Tatsumi Fujinami,183,105,8.83,83,Kunisaki, Oita, Japan
+180,Mike Chioda,183,80,8.82,73,Willingboro Township, New Jersey, USA
+181,Kyoko Inoue,166,108,8.82,27,Nanyo, Yamagata, Japan
+182,Emi Sakura,158,70,8.82,65,Chiba, Japan,
+183,Chihiro Hashimoto,158,85,8.82,32,Sakai, Fukui, Japan
+184,Otto Wanz,189,175,8.81,42,Graz, Steiermark, Österreich
+185,Lacey,168,59,8.81,109,Minneapolis, Minnesota, USA
+186,Yuki Ishikawa,178,95,8.81,30,Odawara, Kanagawa, Japan
+187,Seth Rollins,187,93,8.8,996,Buffalo, Iowa, USA
+188,Melissa Santos,160,52,8.8,44,Nicaragua,,
+189,Hikaru Shida,165,60,8.79,216,Samukawa, Kanagawa, Japan
+190,Ilja Dragunov,175,85,8.79,178,Moskau, Russland,
+191,Ryo Mizunami,160,67,8.78,45,Nagoya, Aichi, Japan
+193,Naruki Doi,172,82,8.77,99,Ikoma, Nara, Japan
+194,Kenou,174,95,8.77,78,Tokushima, Japan,
+195,Antonio Inoki,190,102,8.76,118,Yokohama, Kanagawa, Japan
+196,Christopher Daniels,180,95,8.76,596,Kalamazoo, Michigan, USA
+197,Ryuji Ito,185,95,8.76,78,Takizawa, Iwate, Japan
+201,Tetsuya Endo,180,88,8.75,55,Shiroishi, Miyagi, Japan
+202,Low Ki,173,80,8.74,432,New York City, New York, USA
+203,Dragon Kid,162,70,8.74,107,Tokai, Aichi, Japan
+204,Risa Sera,167,60,8.74,26,Sera, Hiroshima, Japan
+205,Tommaso Ciampa,183,93,8.73,332,Everett, Massachusetts, USA
+206,Rosemary,170,68,8.73,80,Winnipeg, Manitoba, Canada
+207,Konami,156,55,8.73,78,Fukuyama, Hiroshima, Japan
+208,Shigehiro Irie,173,115,8.72,42,Osaka, Japan,
+209,Isami Kodaka,172,75,8.72,57,Yokohama, Kanagawa, Japan
+210,Tracy Williams,188,84,8.72,46,New York City, New York, USA
+212,BxB Hulk,178,78,8.71,98,Sapporo, Hokkaido, Japan
+213,Timothy Thatcher,190,102,8.71,189,Sacramento, California, USA
+214,Eita,170,75,8.7,52,Nagano, Japan,
+215,Madison Eagles,185,75,8.69,34,Sydney, New South Wales, Australia
+216,Atsushi Onita,181,77,8.69,71,Nagasaki, Japan,
+217,Christian Cage,185,95,8.69,934,Kitchener, Ontario, Canada
+218,Satoshi Kojima,183,108,8.69,198,Tokyo, Japan,
+219,Ayako Hamada,162,65,8.68,64,Mexico City, Distrito Federal, Mexiko
+221,Cheerleader Melissa,173,65,8.68,140,Los Angeles, California, USA
+222,Dean Malenko,172,98,8.68,361,Irvington, New Jersey, USA
+223,Finn Balor,180,87,8.68,640,Bray, County Wicklow, Ireland
+224,Yuka Sakazaki,158,58,8.67,78,Japan,,
+225,Sara Amato,175,68,8.66,129,Martinez, California, USA
+226,Cameron Grimes,183,100,8.66,185,Cameron, North Carolina, USA
+227,Kaito Kiyomiya,180,98,8.66,79,Saitama, Japan,
+228,Sarah Stock,168,57,8.65,91,Winnipeg, Manitoba, Canada
+229,Akira Maeda,192,115,8.64,38,Osaka, Japan,
+230,Zenshi,175,78,8.64,27,Atlanta, Georgia, USA
+231,Kazushi Sakuraba,180,85,8.64,58,Katagami, Akita, Japan
+232,Nick Jackson,178,81,8.63,207,Hesperia, California, USA
+233,Joel Gertner,170,86,8.62,51,New York City, New York, USA
+234,Kzy,172,75,8.62,52,Ebetsu, Hokkaido, Japan
+235,Sasha Banks,164,52,8.62,608,Fairfield, California, USA
+236,Riddle,188,98,8.62,268,Allentown, Pennsylvania, USA
+237,Hiroyo Matsumoto,167,70,8.61,50,Hiratsuka, Kanagawa, Japan
+238,Triple H,193,116,8.61,1314,Nashua, New Hampshire, USA
+239,Shuji Kondo,173,103,8.6,47,Shizuoka, Japan,
+240,Beth Phoenix,170,70,8.6,421,Elmira, New York, USA
+241,Hachiman,191,113,8.6,54,Kitahiroshima, Hokkaido, Japan
+242,Naoya Nomura,185,105,8.6,39,Kanazawa, Ishikawa, Japan
+243,Saki Akai,174,53,8.6,39,Kyoto, Japan,
+244,Koji Kanemoto,180,83,8.59,69,Kobe, Hyogo, Japan
+245,Masada,183,111,8.59,85,Beaumont, Texas, USA
+246,Bull Nakano,170,115,8.58,105,Kawaguchi, Saitama, Japan
+247,Truth Martini,173,89,8.58,42,Hamtrack, Michigan, USA
+248,Tony Deppen,169,75,8.58,32,Shamokin, Pennsylvania, USA
+249,Dory Funk Jr.,188,115,8.58,82,Amarillo, Texas, USA
+250,Ricochet,175,85,8.58,536,Alton, Illinois, USA
+251,Matt Jackson,178,78,8.58,207,Rancho Cucamonga, California, USA
+252,Mike Bailey,173,79,8.58,126,Laval, Quebec, Canada
+253,JT Dunn,178,80,8.57,36,Providence, Rhode Island, USA
+254,Tam Nakano,157,56,8.57,103,Aichi, Japan,
+255,Taiji Ishimori,163,75,8.57,189,Tagajo, Miyagi, Japan
+256,Dave Prazak,170,66,8.56,76,Chicago, Illinois, USA
+257,Mil Mascaras,180,105,8.56,56,San Luis Potosi, Mexiko,
+258,Jay Briscoe,185,106,8.56,252,Salisbury, Maryland, USA
+259,Masato Yoshino,172,75,8.56,100,Higashiosaka, Osaka, Japan
+260,Steve Douglas,185,94,8.55,186,Meerane, Sachsen, Deutschland
+261,David Starr,180,96,8.54,172,Philadelphia, Pennsylvania, USA
+262,Masahiro Chono,186,96,8.54,118,Seattle, Washington, USA
+263,Oney Lorcan,185,88,8.54,163,Boston, Massachusetts, USA
+264,Scott Hall,195,120,8.53,506,Londontowne, Maryland, USA
+265,Osamu Nishimura,186,105,8.53,42,Tokyo, Japan,
+266,Minoru Tanaka,175,76,8.53,79,Komaki, Aichi, Japan
+268,Sensational Sherri,170,63,8.52,158,New Orleans, Louisiana, USA
+269,Joe E. Legend,190,121,8.52,146,Toronto, Ontario, Canada
+270,Magnum TA,186,109,8.52,57,Tidewater, Virginia, USA
+272,Kazusada Higuchi,185,110,8.52,45,Monbetsu, Hokkaido, Japan
+273,Hirooki Goto,182,103,8.52,341,Kuwana, Mie, Japan
+274,Becky Lynch,168,59,8.52,562,Dublin, Ireland,
+275,Daisuke Harada,169,80,8.52,65,Suita, Osaka, Japan
+276,Sarray,158,60,8.52,64,Tokyo, Japan,
+277,Roddy Piper,183,104,8.51,338,Saskatoon, Saskatchewan, Canada
+278,Raven,182,115,8.51,403,Philadelphia, Pennsylvania, USA
+279,Lita,170,61,8.51,424,Fort Lauderdale, Florida, USA
+280,Davey Richards,172,92,8.51,294,Othello, Washington, USA
+281,Danshoku Dino,179,105,8.5,53,Setoda, Hiroshima, Japan
+282,Jon Moxley,188,102,8.5,919,Cincinnati, Ohio, USA
+283,Jay White,186,100,8.5,358,Auckland, New Zealand,
+284,Tony Chimel,185,102,8.49,123,Cherry Hill, New Jersey, USA
+285,Dr. Wagner Jr,177,98,8.49,60,Torreon, Coahuila, Mexiko
+286,LA Park,185,136,8.49,135,Torreon, Coahuila, Mexiko
+287,AZM,155,45,8.49,86,Tokyo, Japan,
+288,Brian Pillman,178,103,8.48,210,Norwood, Ohio, USA
+291,Ember Moon,157,55,8.48,231,Dallas, Texas, USA
+293,Dave Penzer,170,86,8.47,31,Atlanta, Georgia, USA
+294,Toni Storm,168,65,8.47,216,Auckland, New Zealand,
+296,Adam Cole,180,95,8.47,490,Panama City, Florida, USA
+297,Rick Rude,191,114,8.46,221,Robbinsdale, Minnesota, USA
+298,Arn Anderson,183,114,8.46,296,Rome, Georgia, USA
+299,Steve Williams,188,119,8.45,154,Lakewood, Colorado, USA
+300,SUGI,165,65,8.45,55,Fukuroi, Shizuoka, Japan
+301,John Silver,163,68,8.45,79,Wantagh, New York, USA
+302,Rush,183,93,8.45,65,Tala, Jalisco, Mexiko
+303,Akira Tozawa,170,71,8.45,237,Nishinomiya, Hyogo, Japan
+304,MAO,177,80,8.45,30,Osaki, Miyagi, Japan
+305,Michael Kovac,180,104,8.44,197,Linz, Oberösterreich, Österreich
+306,Drake Younger,175,82,8.44,175,Indianapolis, Indiana, USA
+307,Josh Alexander,185,109,8.44,54,Bolton, Ontario, Canada
+308,Dakota Kai,165,58,8.44,144,Auckland, New Zealand,
+310,Vince McMahon,187,110,8.42,592,Pinehurst, North Carolina, USA
+311,Chris Dickinson,178,107,8.42,72,New York City, New York, USA
+312,Ultimo Guerrero,173,93,8.42,37,Gomez Palacio, Durango, Mexiko
+313,John Klinger,180,104,8.42,282,Bitburg, Rheinland-Pfalz, Deutschland
+314,Ari Sterling,186,84,8.42,25,Lexington, Kentucky, USA
+315,John Morrison,185,96,8.42,873,Palos Verdes, California, USA
+316,Art Barr,185,109,8.41,33,Portland, Oregon, USA
+317,Malakai Black,180,96,8.41,475,Alkmaar, Nordholland, Niederlande
+319,Santos Escobar,180,90,8.4,100,Mexico City, Distrito Federal, Mexiko
+320,Yukio Sakaguchi,177,79,8.4,34,Tokyo, Japan,
+321,Natsupoi,150,47,8.4,49,Yokohama, Kanagawa, Japan
+322,Starlight Kid,150,45,8.39,75,Japan,,
+323,Susumu Yokosuka,173,77,8.39,61,Yokosuka, Kanagawa, Japan
+325,Adam Page,182,97,8.39,315,Aaron's Creek, Virginia, USA
+326,James Mitchell,175,95,8.38,116,Orlando, Florida, USA
+327,Gran Metalik,176,80,8.37,137,Guadalajara, Jalisco, Mexiko
+329,Bam Bam Bigelow,191,164,8.36,311,Secaucus, New Jersey, USA
+330,Riki Choshu,184,120,8.36,54,Tokuyama, Yamaguchi, Japan
+331,Super Dragon,183,102,8.36,166,Los Angeles, California, USA
+332,Jeff Cobb,178,119,8.36,226,Honolulu, Hawaii, USA
+334,Zeus,181,105,8.36,68,Osaka, Japan,
+335,Verne Gagne,180,98,8.35,54,Robbinsdale, Minnesota, USA
+338,Tomoaki Honma,181,98,8.35,121,Higashine, Yamagata, Japan
+339,MJF,180,93,8.35,212,New York, USA,
+340,Kris Wolf,155,51,8.33,32,Chicago, Illinois, USA
+341,Superstar Billy Graham,195,125,8.33,98,Paradise Valley, Arizona, USA
+342,Victoria,178,67,8.32,291,San Bernadino, California, USA
+343,Andrew Everett,175,77,8.32,74,Burlington, North Carolina, USA
+344,Giant Baba,209,135,8.31,88,Niigata, Japan,
+345,Gail Kim,162,55,8.31,346,Toronto, Ontario, Canada
+346,Milano Collection AT,183,80,8.31,88,Morioka, Iwate, Japan
+347,Awesome Kong,178,125,8.31,276,Carson, California, USA
+348,Fabian Aichner,184,100,8.31,107,Pfalzen, Südtirol, Italien
+349,Suwama,188,120,8.31,103,Fujisawa, Kanagawa, Japan
+350,Kimber Lee,162,54,8.31,84,Seattle, Washington, USA
+352,ACH,175,84,8.3,137,Austin, Texas, USA
+353,Brodie Lee,201,125,8.3,533,Rochester, New York, USA
+354,Shinjiro Otani,180,97,8.3,76,Yamaguchi, Japan,
+355,Joey Styles,170,71,8.29,186,Philadelphia, Pennsylvania, USA
+356,Matt Tremont,178,108,8.29,48,Atlantic City, New Jersey, USA
+357,Rey Mysterio,162,74,8.29,1100,San Ysidro, California, USA
+358,Rob Van Dam,185,107,8.29,668,Battle Creek, Michigan, USA
+359,Jimmy Jacobs,170,82,8.29,190,Grand Rapids, Michigan, USA
+360,Killer Kowalski,201,125,8.28,56,Essex County, Ontario, Canada
+361,Yoshihiro Takayama,196,125,8.28,101,Tokyo, Japan,
+362,Shanna,164,54,8.28,74,Lissabon, Portugal,
+363,Nick Mondo,185,92,8.27,105,Minneapolis, Minnesota, USA
+364,Captain Lou Albano,178,159,8.26,56,Rom, Italien,
+365,Willie Mack,178,127,8.26,115,St. Louis, Missouri, USA
+366,Wes Lee,175,86,8.26,52,Dayton, Ohio, USA
+367,Chad Gable,173,92,8.26,261,Minneapolis, Minnesota, USA
+368,Perro Aguayo Jr.,174,88,8.25,27,Mexico City, Distrito Federal, Mexiko
+369,Velveteen Dream,188,103,8.25,225,Washington, District Of Columbia, USA
+372,Chuck Taylor,188,95,8.24,270,Murray, Kentucky, USA
+373,Isaiah Scott,185,91,8.24,138,Tacoma, Washington, USA
+375,Roderick Strong,178,91,8.24,456,Eau Claire, Wisconsin, USA
+376,Mike Awesome,193,134,8.23,195,Tampa, Florida, USA
+377,Mickie James,162,55,8.23,494,Richmond, Virginia, USA
+378,Jordan Devlin,178,83,8.23,128,Bray, County Wicklow, Ireland
+380,Kane,208,147,8.23,1053,Madrid, Spanien,
+381,Colt Cabana,185,103,8.23,332,Chicago, Illinois, USA
+382,Fukigen Death,150,57,8.23,38,Zushi, Kanagawa, Japan
+383,El Desperado,177,85,8.23,152,Nagaoka, Niigata, Japan
+384,Ivelisse,165,54,8.22,101,Chicago, Illinois, USA
+386,Steve Corino,185,107,8.22,173,Winnipeg, Manitoba, Canada
+387,Tassilo Jung,190,90,8.22,82,Siegburg, Nordrhein-Westfalen, Deutschland
+388,Bayley,170,54,8.22,488,Newark, California, USA
+389,Mustafa Ali,178,78,8.21,180,Bolingbrook, Illinois, USA
+390,T-Hawk,174,88,8.21,55,Tomakomai, Hokkaido, Japan
+391,A-Kid,173,70,8.21,60,Madrid, Spanien,
+392,Homicide,175,99,8.2,292,New York City, New York, USA
+393,Candice LeRae,157,51,8.2,218,Winnipeg, Manitoba, Canada
+394,Brody King,195,129,8.2,43,Van Nuys, California, USA
+395,Taz,175,112,8.2,298,New York City, New York, USA
+396,Dick Togo,170,90,8.2,75,Odate, Akita, Japan
+397,Utami Hayashishita,166,65,8.2,117,Amami, Kagoshima, Japan
+400,Laredo Kid,172,90,8.18,43,Nuevo Laredo, Tamaulipas, Mexiko
+401,DASH Chisako,151,56,8.18,32,Sendai, Miyagi, Japan
+402,Reckoning,170,60,8.18,113,Fontana, California, USA
+404,Darby Allin,173,78,8.17,214,Seattle, Washington, USA
+406,Karsten Kretschmer,182,103,8.16,106,Hamburg, Deutschland,
+408,Volador Jr.,175,87,8.16,61,Monclova, Coahuila, Mexiko
+409,Dalton Castle,180,99,8.16,122,Albany, New York, USA
+410,Kotaro Suzuki,170,86,8.15,73,Warabi, Saitama, Japan
+411,Jimmy Hart,178,75,8.14,155,Jackson, Mississippi, USA
+412,Jesus Rodriguez,180,98,8.14,89,Van Nuys, California, USA
+413,Lance Storm,180,107,8.13,259,Sarnia, Ontario, Canada
+414,Matt Silva,178,93,8.13,220,Melbourne, Victoria, Australia
+415,Natalya,165,61,8.13,547,Calgary, Alberta, Canada
+416,Matt Sydal,175,75,8.12,558,St. Louis, Missouri, USA
+417,Masakatsu Funaki,182,84,8.12,25,Hirosaki, Aomori, Japan
+418,Tully Blanchard,180,109,8.12,94,Calgary, Alberta, Canada
+419,Daisuke Sasaki,168,80,8.12,41,Tokyo, Japan,
+421,El Barbaro Cavernario,172,88,8.11,43,Zapopan, Jalisco, Mexiko
+422,Aero Star,169,68,8.11,73,Mexico City, Distrito Federal, Mexiko
+423,Brock Lesnar,193,121,8.1,1018,Webster, South Dakota, USA
+424,Brian Cage,183,120,8.1,235,Chico, California, USA
+425,Masanobu Fuchi,183,105,8.1,39,Kitakyushu, Fukuoka, Japan
+426,Titan,169,84,8.09,32,Guadalajara, Jalisco, Mexiko
+427,Mark Briscoe,183,104,8.09,190,Salisbury, Maryland, USA
+428,Munenori Sawa,174,80,8.09,32,Tokyo, Japan,
+430,Dax Harwood,178,101,8.09,149,Whiteville, North Carolina, USA
+431,SHO,173,93,8.09,127,Uwajima, Ehime, Japan
+432,Road Warrior Hawk,191,125,8.07,146,Minneapolis, Minnesota, USA
+433,Katarina Leigh,175,64,8.07,162,Lüneburg, Niedersachsen, Deutschland
+434,Absolute Andy,190,125,8.07,234,Nürnberg, Bayern, Deutschland
+435,Eddie Kingston,180,109,8.07,256,Yonkers, New York, USA
+436,Paul London,178,82,8.07,333,Austin, Texas, USA
+437,Taylor Wilde,160,55,8.06,130,Toronto, Ontario, Canada
+439,TAJIRI,172,82,8.06,271,Tamana, Kumamoto, Japan
+440,Yuma Aoyagi,186,90,8.06,33,Matsumoto, Nagano, Japan
+441,Rhea Ripley,170,62,8.06,145,Adelaide, South Australia, Australia
+442,Bruiser Brody,201,128,8.05,84,Pennsylvania, USA,
+443,Cedric Alexander,178,93,8.05,195,Charlotte, North Carolina, USA
+444,Kalisto,167,77,8.04,240,Chicago, Illinois, USA
+445,Tessa Blanchard,165,56,8.04,116,Charlotte, North Carolina, USA
+446,Hikaru Sato,174,92,8.04,26,Okayama, Japan,
+447,Randy Orton,193,110,8.04,1410,Knoxville, Tennessee, USA
+449,Hakeem Waqur,181,123,8.03,35,Tayibe, Israel,
+450,Blue Nikita,170,65,8.03,86,Thessaloniki, Griechenland,
+452,Cibernetico,184,107,8.03,28,Aguascalientes, Mexiko,
+453,Extreme Tiger,160,67,8.02,43,Tijuana, Baja California, Mexiko
+454,AJ Lee,157,52,8.02,405,Union City, New Jersey, USA
+455,Lio Rush,168,73,8.01,144,Lanham, Maryland, USA
+456,Eric Schwarz,193,109,8,104,Mainz, Rheinland-Pfalz, Deutschland
+457,Chris Bey,175,75,8,25,Alexandria, Virginia, USA
+458,Larry Sweeney,175,83,7.99,95,Winnetka, Illinois, USA
+459,UltraMantis Black,183,91,7.99,69,Pennsylvania, USA,
+460,Justin Roberts,178,77,7.99,121,Chicago, Illinois, USA
+461,Rich Swann,168,77,7.98,172,Baltimore, Maryland, USA
+462,Chris Sabin,177,81,7.98,326,Detroit, Michigan, USA
+463,Paul Tracey,188,100,7.97,38,Bray, Co. Wicklow, Ireland
+464,Ruby Soho,163,55,7.95,148,Edwardsburg, Michigan, USA
+465,Ikuto Hidaka,172,80,7.95,39,Masuda, Shimane, Japan
+466,Michael Elgin,180,111,7.95,292,Oshawa, Ontario, Canada
+467,MsChif,170,61,7.94,50,Missouri, USA,
+468,Mance Warner,185,98,7.94,31,Bucksnort, Tennessee, USA
+470,Mr. Anderson,188,110,7.93,613,Wisconsin Rapids, Wisconsin, USA
+471,Gary Albright,191,160,7.92,25,Rhode Island, USA,
+472,Sheik,180,110,7.92,48,Lansing, Michigan, USA
+473,Ricky Marvin,169,79,7.92,77,Ciudad y Puerto de Veracruz, Veracruz, Mexiko
+474,TAKA Michinoku,175,78,7.92,172,Yotsukaido, Chiba, Japan
+475,Drew Gulak,180,92,7.92,219,Philadelphia, Pennsylvania, USA
+476,Robbie Eagles,177,80,7.91,66,Jonestown, New South Wales, Australia
+477,Crazy Sexy Mike,178,93,7.91,101,Berlin, Deutschland,
+478,Mercedes Martinez,170,67,7.91,94,Waterbury, Connecticut, USA
+481,Jack Brisco,191,102,7.9,30,Blackwell, Oklahoma, USA
+482,El Phantasmo,183,83,7.9,85,Vancouver, British Columbia, Canada
+483,Jordynne Grace,156,68,7.9,68,St. Louis, Missouri, USA
+484,Jonathan Gresham,162,73,7.89,141,Atlanta, Georgia, USA
+485,Josh Barnett,190,114,7.89,36,Seattle, Washington, USA
+487,Yoshihito Sasaki,174,96,7.88,33,Kawaguchi, Saitama, Japan
+488,Takeshi Morishima,190,125,7.88,184,Tokyo, Japan,
+490,Thunder Rosa,161,54,7.87,114,Tijuana, Baja California, Mexiko
+491,Santana,178,90,7.86,49,New York City, New York, USA
+492,Kengo Mashimo,180,98,7.86,27,Maizuru, Kyoto, Japan
+493,Diamond Dallas Page,196,106,7.85,323,Point Pleasant, New Jersey, USA
+494,Rey Horus,170,75,7.85,46,Tijuana, Baja California, Mexiko
+495,Jake Roberts,195,113,7.85,266,Gainesville, Texas, USA
+496,Baron von Hagen,183,120,7.84,61,Hamburg, Deutschland,
+497,Chris Raaber,192,114,7.84,126,Leoben, Steiermark, Österreich
+498,MVP,180,114,7.83,709,Miami, Florida, USA
+499,Ace Austin,173,79,7.83,53,Atlantic City, New Jersey, USA
+500,Hugo Savinovich,178,105,7.82,33,Guayaquil, Ecuador,
+501,Angelico,190,97,7.82,151,Johannesburg, South Africa,
+502,SANADA,182,100,7.82,276,Niigata, Japan,
+503,Jeremy Borash,178,82,7.8,99,Minneapolis, Minnesota, USA
+504,Skayde,170,87,7.8,29,Mexico City, Distrito Federal, Mexiko
+505,The Brian Kendrick,173,71,7.8,505,Fairfax, Virginia, USA
+506,Jeff Hardy,185,99,7.8,1216,Cameron, North Carolina, USA
+507,Mexxberg,190,110,7.8,53,Graz, Steiermark, Österreich
+508,Woman,165,63,7.79,47,Boston, Massachusetts, USA
+509,Drago,174,79,7.79,72,Mexico City, Distrito Federal, Mexiko
+510,Brain Damage,192,123,7.78,63,Mansfield, Ohio, USA
+511,Eric Bischoff,178,88,7.78,216,Detroit, Michigan, USA
+512,Dolph Ziggler,183,100,7.78,829,Cleveland, Ohio, USA
+513,Charlotte Flair,178,65,7.78,593,Charlotte, North Carolina, USA
+514,Jim Cornette,183,105,7.77,241,Louisville, Kentucky, USA
+515,Danny Havoc,185,86,7.77,96,Cylinder, Iowa, USA
+516,Terry Gordy,195,135,7.77,72,Chattanooga, Tennessee, USA
+517,Travis Banks,173,86,7.77,101,Auckland, New Zealand,
+518,Sammy Guevara,178,84,7.77,153,Katy, Texas, USA
+519,Eddie Edwards,180,97,7.77,202,Boston, Massachusetts, USA
+521,Sami Callihan,175,95,7.77,243,Bellefontaine, Ohio, USA
+522,Nicole Matthews,173,66,7.76,37,Coquitlam, British Columbia, Canada
+523,Kaio,190,103,7.75,27,Como, Italien,
+524,Tony Nese,175,89,7.75,144,Ridge, New York, USA
+525,SUWA,173,95,7.74,30,Kagoshima, Japan,
+526,Portia Perez,157,55,7.74,41,Ottawa, Ontario, Canada
+528,Jungle Boy,178,76,7.74,134,California, USA,
+529,Steve Maclin,183,102,7.74,30,Rutherford, New Jersey, USA
+530,Jerry Lynn,175,93,7.73,226,Minneapolis, Minnesota, USA
+531,Erik,185,112,7.73,79,Cleveland, Ohio, USA
+532,Angel Garza,181,96,7.73,92,Monterrey, Nuevo Leon, Mexiko
+533,AR Fox,183,84,7.72,97,Ansonia, Connecticut, USA
+534,Cassie Lee,170,60,7.72,155,Sydney, New South Wales, Australia
+535,Jerry Lawler,183,110,7.72,370,Memphis, Tennessee, USA
+538,Heimo Ukonselkä,185,105,7.71,33,Helsinki, Finnland,
+539,Fred Yehi,175,84,7.71,37,Georgia, USA,
+540,Ivar,187,133,7.71,92,Lynn, Massachusetts, USA
+541,Ricky Starks,183,88,7.7,66,New Orleans, Louisiana, USA
+543,Koji Iwamoto,175,90,7.7,29,Kuwana, Mie, Japan
+544,Daizee Haze,162,50,7.69,87,Cape Girardeau, Missouri, USA
+545,Melina,162,55,7.69,312,Los Angeles, California, USA
+546,Su Yung,165,59,7.69,48,Seattle, Washington, USA
+547,Ikemen Jiro,180,90,7.69,34,Tokyo, Japan,
+548,Marcel Barthel,190,95,7.69,184,Pinneberg, Schleswig-Holstein, Deutschland
+549,Kimberly Page,178,55,7.68,58,Chicago, Illinois, USA
+550,Molly Holly,162,64,7.68,133,Forest Lake, Minnesota, USA
+551,Andre The Giant,213,240,7.68,300,Coulommiers, Ile-de-Frances, Frankreich
+552,Caristico,170,79,7.68,274,Mexico City, Distrito Federal, Mexiko
+553,Cash Wheeler,175,94,7.68,132,Raleigh, North Carolina, USA
+554,Kacy Catanzaro,153,43,7.68,40,Glen Ridge, New Jersey, USA
+555,Alundra Blayze,178,68,7.67,124,Mailand, Italien,
+556,Karl Anderson,184,97,7.67,261,Detroit, Michigan, USA
+558,Kylie Rae,165,66,7.67,41,Chicago, Illinois, USA
+559,Ethan Page,188,103,7.67,89,Stoney Creek, Ontario, Canada
+560,Ophidian,170,75,7.66,46,USA,,
+561,Kaz Hayashi,173,83,7.66,75,Tokyo, Japan,
+562,Robert Roode,183,106,7.66,471,Peterborough, Ontario, Canada
+563,The Fiend,190,136,7.66,697,Brooksville, Florida, USA
+564,Maika,162,60,7.65,45,Fukuoka, Japan,
+565,LA Knight,188,104,7.65,105,Hagerstown, Maryland, USA
+567,Masa Kitamiya,172,103,7.65,42,Tonami, Toyama, Japan
+568,RD Evans,189,90,7.64,32,Winnipeg, Manitoba, Canada
+569,Sabu,178,102,7.64,372,Detroit, Michigan, USA
+570,Stacy Keibler,180,61,7.63,181,Baltimore, Maryland, USA
+571,Kerry von Erich,188,115,7.63,105,Niagara Falls, New York, USA
+573,Shelton Benjamin,188,113,7.63,580,Orangeburg, South Carolina, USA
+574,Cannonball Grizzly,188,186,7.62,76,Omaha, Nebraska, USA
+576,El Lindaman,161,80,7.62,36,Tokyo, Japan,
+577,Tom Lawlor,183,93,7.61,30,Fall River, Massachusetts, USA
+578,Sarah Logan,165,63,7.6,76,Jeffersonville, Indiana, USA
+579,John Cena,185,114,7.6,1885,West Newbury, Massachusetts, USA
+580,Ryo Saito,170,80,7.6,59,Yamagata, Japan,
+581,Austin Theory,185,100,7.6,67,McDonough, Georgia, USA
+582,Sunny,162,54,7.59,144,Asbury Park, New Jersey, USA
+583,Carlos Cabrera,178,96,7.59,26,Bogota, Kolumbien,
+584,Santana Garrett,165,54,7.59,68,Ocala, Florida, USA
+585,Shane McMahon,187,105,7.59,510,Gaithersburg, Maryland, USA
+586,Umaga,193,158,7.58,489,San Francisco, California, USA
+587,Atsushi Aoki,170,85,7.58,76,Tokyo, Japan,
+588,Marius Al-Ani,176,90,7.58,58,Eisenach, Thüringen, Deutschland
+589,KAI,177,100,7.58,32,Yokohama, Kanagawa, Japan
+590,Paul Orndorff,185,115,7.57,113,Winchester, Virginia, USA
+591,Frankie Kazarian,185,98,7.57,309,Palm Springs, California, USA
+593,Bobby Fish,180,89,7.57,190,Albany, New York, USA
+594,Thumbtack Jack,178,83,7.56,183,München, Bayern, Deutschland
+595,Chris Bosh,180,94,7.56,40,Beverly Hills, California, USA
+596,Emil Sitoci,184,94,7.56,153,Ede, Gelderland, Niederlande
+597,Ahmed Chaer,170,75,7.56,93,Berlin, Deutschland,
+598,Kazunari Murakami,186,110,7.56,26,Toyama, Japan,
+599,Trent,188,88,7.56,220,Mt. Sinai, New York, USA
+600,Alex Pain,180,95,7.55,52,Mücheln, Sachsen-Anhalt, Deutschland
+601,Bobby Eaton,182,107,7.55,88,Huntsville, Alabama, USA
+602,Freddy Stahl,176,95,7.55,39,Bückeburg, Niedersachsen, Deutschland
+603,Antonio Honda,168,80,7.55,32,Tokyo, Japan,
+604,Matt Hardy,185,106,7.55,846,Cameron, North Carolina, USA
+605,Kohei Sato,193,120,7.55,39,Koto, Tokyo, Japan
+606,Montez Ford,185,105,7.55,77,Chicago, Illinois, USA
+607,Shota Umino,183,93,7.55,54,Tokyo, Japan,
+608,Damon Brix,190,107,7.54,56,Linz, Oberösterreich, Österreich
+609,Gregory Iron,165,75,7.54,25,Cleveland, Ohio, USA
+610,Tenille Dashwood,165,60,7.53,229,Melbourne, Victoria, Australia
+612,T-BAR,201,118,7.52,137,Worcester, Massachusetts, USA
+613,Nick Patrick,188,100,7.51,62,Lakeland, Florida, USA
+614,Michael Knight,178,85,7.51,78,Schwerin, Mecklenburg-Vorpommern, Deutschland
+615,Alex Koslov,170,86,7.51,70,Moldawien,,
+616,Kazuyuki Fujita,182,115,7.51,36,Funabashi, Chiba, Japan
+617,Prince Nana,180,107,7.51,46,Ghana,,
+618,Jack Evans,173,77,7.51,261,Parkland, Washington, USA
+620,Dick Murdoch,187,126,7.5,37,Amarillo, Texas, USA
+621,Clark Connors,173,84,7.5,25,Snoqualmie, Washington, USA
+622,Shinobu,173,78,7.5,25,Tome, Miyagi, Japan
+623,Manabu Soya,180,112,7.5,27,Minowa, Nagano, Japan
+624,Rocky Romero,170,78,7.49,195,Havanna, Kuba,
+625,Rick Martel,185,108,7.49,161,Quebec City, Quebec, Canada
+626,James Storm,185,103,7.49,271,Franklin, Tennessee, USA
+627,Tatsuhito Takaiwa,178,94,7.49,42,Kameoka, Kyoto, Japan
+628,Orange Cassidy,178,73,7.49,193,Stewartsville, New Jersey, USA
+629,Noam Dar,175,77,7.49,141,Tel Aviv, Israel,
+630,JJ Dillon,180,108,7.48,28,Trenton, New Jersey, USA
+631,JC Bailey,183,86,7.48,43,Louisville, Kentucky, USA
+632,Rickey Shane Page,196,128,7.48,32,Lordstown, Ohio, USA
+633,Kevin von Erich,188,107,7.48,30,Belleville, Illinois, USA
+634,EC3,185,102,7.48,231,Willoughby, Ohio, USA
+635,Sheamus,193,121,7.48,736,Dublin, Ireland,
+636,Daichi Hashimoto,180,92,7.48,47,Kanagawa, Japan,
+637,Master Wato,176,80,7.48,74,Ikeda, Osaka, Japan
+638,Lilian Garcia,165,50,7.47,183,Madrid, Spanien,
+639,Ole Anderson,185,116,7.47,35,Minneapolis, Minnesota, USA
+640,Silas Young,180,100,7.47,92,Appleton, Wisconsin, USA
+642,Stu Grayson,178,85,7.47,74,Victoriaville, Quebec, Canada
+643,Matt Cross,170,83,7.46,197,Cleveland, Ohio, USA
+644,Tristan Archer,179,90,7.46,34,Amiens, Nord-Pas-de-Calais-Picardie, Frankreich
+645,Ronda Rousey,170,61,7.45,169,Riverside, California, USA
+647,Shane Helms,180,98,7.45,342,Smithfield, North Carolina, USA
+648,Ryusuke Taguchi,180,91,7.45,186,Iwanuma, Miyagi, Japan
+649,Human Tornado,190,78,7.44,81,Bakersfield, California, USA
+650,The Miz,185,105,7.44,1216,Parma, Ohio, USA
+651,Jade Chung,168,50,7.43,27,Guelph, Ontario, Canada
+653,Bully Ray,193,127,7.42,439,Massapequa, New York, USA
+654,Kagetora,170,80,7.42,35,Koutou, Tokyo, Japan
+655,Excalibur,188,84,7.42,94,Detroit, Michigan, USA
+656,TJ Wilson,175,91,7.42,329,Calgary, Alberta, Canada
+657,Hiroyoshi Tenzan,183,115,7.42,149,Kyoto, Japan,
+658,Yoshinobu Kanemaru,173,85,7.42,95,Kofu, Yamanashi, Japan
+659,Ingo Vollenberg,180,70,7.41,28,Schmallenberg, Nordrhein-Westfalen, Deutschland
+660,Frightmare,173,77,7.41,26,Middlesex, New Jersey, USA
+661,Genki Horiguchi,173,75,7.41,55,Kumamoto, Japan,
+662,Hajime Ohara,175,90,7.41,36,Kawasaki, Kanagawa, Japan
+663,Slapjack,187,102,7.41,78,Perth, Western Australia, Australia
+664,Stan Lane,185,102,7.4,29,Greensboro, North Carolina, USA
+665,Jurn Simmons,188,115,7.4,57,Heeg, Friesland, Niederlande
+666,Angelina Love,168,57,7.4,186,Toronto, Ontario, Canada
+667,Joe Doering,195,135,7.4,51,Chicago, Illinois, USA
+668,Riho,156,45,7.39,138,Shinagawa, Tokyo, Japan
+669,Daga,173,82,7.39,35,Estado de Mexico, Mexiko,
+670,Kris Statlander,173,65,7.39,79,West Islip, New York, USA
+671,Jinsei Shinzaki,180,108,7.39,104,Tokushima, Japan,
+672,Dusty Rhodes,186,137,7.38,244,Austin, Texas, USA
+673,Pedro Morales,180,109,7.37,45,Culebra, Puerto Rico, USA
+674,Hideyoshi Kamitani,180,108,7.36,32,Matsusaka, Mie, Japan
+675,Takao Omori,190,110,7.36,57,Tokyo, Japan,
+676,Kofi Kingston,185,97,7.36,731,Kumasi, Ashanti-Region, Ghana
+677,Atsushi Kotoge,177,91,7.36,38,Kaizuka, Osaka, Japan
+678,Franky Monet,173,66,7.36,75,Victoria, British Columbia, Canada
+679,Beulah,167,52,7.35,65,Kalamazoo, Michigan, USA
+680,Don Callis,188,105,7.35,77,Winnipeg, Manitoba, Canada
+681,Chris Colen,185,101,7.35,90,Wien, Österreich,
+682,Axel Tischer,187,111,7.35,218,Dresden, Sachsen, Deutschland
+683,Ortiz,173,87,7.35,50,New York City, New York, USA
+684,Tyler Breeze,185,89,7.35,263,Calgary, Alberta, Canada
+685,Cody Rhodes,185,100,7.35,932,North Carolina, USA,
+686,Damian Priest,200,114,7.35,106,West Nyack, New York, USA
+687,Luther Ward,185,110,7.34,28,Dublin, Ireland,
+688,Perry Saturn,178,106,7.34,186,Lakewood, Ohio, USA
+689,Leyla Hirsch,150,57,7.34,46,Moskau, Russland,
+690,Francine,170,53,7.33,50,Bear, Delaware, USA
+691,Savannah,165,49,7.33,29,Vancouver, British Columbia, Canada
+692,Allysin Kay,178,68,7.33,51,Detroit, Michigan, USA
+693,Joseph Parks,195,159,7.33,413,Washington, District Of Columbia, USA
+694,Shayna Baszler,170,62,7.33,197,Sioux Falls, South Dakota, USA
+695,Allison Danger,170,56,7.32,58,Winnipeg, Manitoba, Canada
+696,Mountie,185,109,7.32,116,St. Sulpice, Quebec, Canada
+697,Matt Cappotelli,183,100,7.32,27,Norwich, New York, USA
+699,Miro,183,127,7.32,431,Plovdiv, Bulgarien,
+700,Ivan Kiev,188,93,7.31,79,Berlin, Deutschland,
+702,Ken Shamrock,185,95,7.31,197,Warner Robins, Georgia, USA
+703,Alberto El Patron,197,108,7.31,550,San Luis Potosi, Mexiko,
+704,Sanshiro Takagi,175,105,7.31,28,Osaka, Japan,
+706,Mike Rotunda,192,116,7.3,197,Syracuse, New York, USA
+707,Phil LaFon,180,105,7.3,39,Nipigon, Ontario, Canada
+708,Road Warrior Animal,185,130,7.29,168,Philadelphia, Pennsylvania, USA
+709,Hallowicked,188,96,7.29,69,Pennsylvania, USA,
+711,Chaos,183,109,7.29,30,Aarhus, Dänemark,
+712,Deonna Purrazzo,157,55,7.29,76,Jefferson, New Jersey, USA
+713,Kimona Wanalaya,156,46,7.28,31,Seoul, Südkorea,
+714,Alex Colon,171,86,7.28,39,Hammonton, New Jersey, USA
+715,Luchasaurus,196,106,7.28,94,Woodlands Hills, California, USA
+716,Jay Lethal,178,97,7.28,413,Elizabeth, New Jersey, USA
+717,Gedo,172,86,7.28,118,Musashimurayama, Tokyo, Japan
+718,Pope,185,100,7.28,286,Jacksonville, Florida, USA
+719,Raul Mendoza,171,80,7.28,38,Cordoba, Veracruz, Mexiko
+720,Alex Wright,195,101,7.27,213,Schwabach, Bayern, Deutschland
+721,Psycho Clown,189,107,7.27,25,Mexico City, Distrito Federal, Mexiko
+722,Vampiro,190,113,7.27,157,Thunder Bay, Ontario, Canada
+724,Robert Anthony,192,100,7.26,33,Plainfield, Illinois, USA
+725,Brent Albright,183,108,7.25,107,Tulsa, Oklahoma, USA
+726,Apollo Crews,185,110,7.25,325,Sacramento, California, USA
+727,EVIL,178,106,7.25,249,Mishima, Shizuoka, Japan
+728,Uli Fesseler,158,48,7.24,32,Hamburg, Deutschland,
+729,Barry Windham,196,126,7.24,124,Fargo, Georgia, USA
+730,Douki,170,85,7.24,37,Japan,,
+731,Too Cold Scorpio,185,105,7.24,161,Texas, USA,
+732,Jason Lee,172,72,7.24,28,Hong Kong, China,
+733,Paul Wight,213,180,7.24,897,Aiken, South Carolina, USA
+734,Taiyo Kea,185,106,7.24,48,Honolulu, Hawaii, USA
+735,Ren Narita,182,83,7.24,37,Aomori, Japan,
+736,Billy Kidman,177,89,7.23,232,New Haven, Connecticut, USA
+737,Killer Kelly,165,58,7.22,45,Lissabon, Portugal,
+738,Booker T,190,113,7.22,622,Houston, Texas, USA
+739,TJP,178,76,7.22,276,Los Angeles, California, USA
+740,Reckless Youth,178,91,7.21,28,Mt. Holly, New Jersey, USA
+741,Alex Reynolds,178,89,7.21,46,Southampton, New York, USA
+742,Natsu Sumire,164,60,7.21,33,Iwakura, Aichi, Japan
+743,Kevin Nash,211,127,7.21,561,Detroit, Michigan, USA
+744,Juice Robinson,191,100,7.21,280,Joliet, Illinois, USA
+745,Amazing Red,168,70,7.2,141,Cayey, Puerto Rico, USA
+747,Maria Kanellis-Bennett,170,52,7.2,342,Ottawa, Illinois, USA
+748,Kevin Kelly,178,109,7.19,42,New York City, New York, USA
+749,Robert Dreissker,180,134,7.19,61,Tulln, Niederösterreich, Österreich
+750,John Bradshaw Layfield,195,128,7.19,633,Athens, Texas, USA
+751,Cheech,183,80,7.18,60,New York City, New York, USA
+752,King Muertes,183,111,7.18,158,Bayamon, Puerto Rico, USA
+753,Jason Jordan,190,107,7.18,175,Tinley Park, Illinois, USA
+754,Elizabeth,163,54,7.17,118,Frankfort, Kentucky, USA
+755,Mr. Fuji,178,109,7.17,110,Honolulu, Hawaii, USA
+756,Tito Santana,188,107,7.17,141,Mission, Texas, USA
+757,Sasa Keel,196,106,7.16,56,Split, Dalmatien, Kroatien
+758,Shane Douglas,183,111,7.16,171,Pittsburgh, Pennsylvania, USA
+759,Tommy Dreamer,188,116,7.16,437,Yonkers, New York, USA
+760,Corey Graves,185,93,7.16,151,Pittsburgh, Pennsylvania, USA
+761,El Texano Jr.,174,100,7.16,48,Mexico City, Distrito Federal, Mexiko
+762,Hulk Hogan,193,125,7.15,965,Augusta, Georgia, USA
+764,Scorpio Sky,178,80,7.15,114,Los Angeles, California, USA
+765,Rhino,177,134,7.15,405,Dearborn, Michigan, USA
+766,Shane Taylor,185,143,7.15,25,Cleveland, Ohio, USA
+767,Alexa Bliss,155,46,7.15,433,Columbus, Ohio, USA
+768,Wardlow,188,113,7.15,61,Cleveland, Ohio, USA
+770,Peter White,188,100,7.14,28,Wien, Österreich,
+771,Jeff Jarrett,183,107,7.14,425,Hendersonville, Tennessee, USA
+772,Earl Hebner,170,73,7.13,105,King William County, Virginia, USA
+773,Mike Kruel,180,102,7.13,29,New York City, New York, USA
+774,Da Mack,182,84,7.13,115,Hamburg, Deutschland,
+775,Christina Von Eerie,163,56,7.13,30,Sacramento, California, USA
+776,Jamie Noble,170,91,7.13,305,Hanover, West Virginia, USA
+777,PCO,185,124,7.12,146,Montreal, Quebec, Canada
+778,Daffney,168,59,7.11,111,Wiesbaden, Hessen, Deutschland
+779,Marty Martinez,188,98,7.11,44,West Jordan, Utah, USA
+780,PJ Black,185,97,7.11,248,Cape Town, South Africa,
+781,Kazuki Hashimoto,170,80,7.11,26,Soka, Saitama, Japan
+782,Eddie Gilbert,178,101,7.1,30,Lexington, Tennessee, USA
+783,Robert Ray,185,100,7.1,40,Graz, Steiermark, Österreich
+784,Bronson Reed,180,125,7.1,67,Australia,,
+785,Muhammad Hassan,188,105,7.09,150,Syracuse, New York, USA
+788,Powerhouse Hobbs,185,109,7.09,31,Palo Alto, California, USA
+789,Velvet Sky,165,57,7.08,202,New Britain, Connecticut, USA
+790,Tim Donst,178,109,7.08,50,East Stroudsburg, Pennsylvania, USA
+792,Butcher,191,124,7.08,35,Buffalo, New York, USA
+793,El Samurai,180,85,7.08,39,Hanamaki, Iwate, Japan
+794,Yuya Uemura,180,82,7.08,36,Imabari, Ehime, Japan
+795,Hector Garza,178,95,7.07,45,Monterrey, Nuevo Leon, Mexiko
+796,Rambo,170,100,7.07,27,Santo Domingo de Guzmán, Dominikanische Republik,
+797,Blade,183,100,7.07,44,Buffalo, New York, USA
+798,Serena Deeb,162,58,7.07,128,Oakton, Virginia, USA
+799,Wifebeater,193,111,7.06,32,Dallas, Texas, USA
+800,Ron Simmons,185,125,7.06,242,Perry, Georgia, USA
+803,LuFisto,160,63,7.05,83,Sorel, Quebec, Canada
+804,Saya Kamitani,168,58,7.05,54,Kanagawa, Japan,
+805,Scott Lost,175,84,7.04,49,Santa Cruz, California, USA
+806,Yoshinari Ogawa,180,85,7.04,82,Toride, Ibaraki, Japan
+808,Ryouji Sai,190,105,7.03,30,Osaka, Japan,
+809,Mr. Insanity,192,107,7.02,48,Detroit, Michigan, USA
+810,Gran Akuma,178,90,7.01,76,Boyertown, Pennsylvania, USA
+811,Alofa,188,165,7,37,Samoa,,
+812,Vincent,183,86,7,26,Warwick, Rhode Island, USA
+813,Ace Romero,184,181,7,36,Saco, Maine, USA
+814,Mansoor,183,89,7,52,Riyadh, Saudi Arabia,
+816,Carlito,178,100,6.99,497,San Juan, Puerto Rico, USA
+817,Jake Hager,193,130,6.99,567,Perry, Oklahoma, USA
+818,Jimmy Yang,175,93,6.98,284,Los Angeles, California, USA
+819,Hernandez,188,134,6.98,243,Houston, Texas, USA
+820,Josh Raymond,175,83,6.97,31,Kalamazoo, Michigan, USA
+821,Bobby Gunns,179,92,6.97,63,Heilbad Heiligenstadt, Thüringen, Deutschland
+823,Ted DiBiase Jr.,188,107,6.95,330,Baton Rouge, Louisiana, USA
+824,Sid Vicious,206,142,6.94,263,West Memphis, Arkansas, USA
+825,Shotzi,167,57,6.94,82,California, USA,
+826,John Kronus,191,116,6.93,44,Everett, Massachusetts, USA
+827,Doug Furnas,180,110,6.93,40,Miami, Oklahoma, USA
+828,Aron Stevens,193,110,6.93,320,Worcester, Massachusetts, USA
+829,Todd Pettengill,183,79,6.92,25,Hagaman, New York, USA
+830,Batista,196,126,6.92,1094,Arlington, Virginia, USA
+831,Joaquin Wilde,170,77,6.92,132,Los Angeles, California, USA
+834,Afa,188,148,6.9,59,Samoa,,
+835,Nikki Roxx,175,64,6.9,80,Melrose, New Hampshire, USA
+836,Patriot,190,118,6.9,41,Columbia, South Carolina, USA
+837,Matt Striker,178,98,6.9,300,New York City, New York, USA
+838,K-ness,172,74,6.9,28,Tokyo, Japan,
+839,Togi Makabe,181,110,6.9,173,Sagamihara, Kanagawa, Japan
+840,Saya Iida,145,54,6.9,50,Kashiwa, Chiba, Japan
+842,Blitzkrieg,165,73,6.89,27,California, USA,
+843,X-Dream,183,80,6.89,72,Köln, Nordrhein-Westfalen, Deutschland
+844,Abdullah Kobayashi,175,165,6.89,62,Chikuma, Nagano, Japan
+846,BUSHI,172,83,6.89,159,Tokyo, Japan,
+847,Yokozuna,193,290,6.88,258,San Francisco, California, USA
+848,Stevie Richards,187,100,6.88,223,Philadelphia, Pennsylvania, USA
+849,Nicho,180,91,6.88,133,Tijuana, Baja California, Mexiko
+850,YOH,171,85,6.88,96,Kurihara, Miyagi, Japan
+851,Nick Gage,178,91,6.87,123,Salt Lake City, Utah, USA
+852,Fabio Ferrari,187,101,6.87,30,Genua, Italien,
+853,Celeste Bonin,165,58,6.86,148,Houston, Texas, USA
+854,Maryse,173,52,6.86,345,Montreal, Quebec, Canada
+855,Delirious,178,91,6.85,181,Missouri, USA,
+856,Yoshiaki Yago,187,100,6.85,26,Imizu, Toyama, Japan
+857,Dustin Rhodes,193,107,6.85,637,Austin, Texas, USA
+858,Ricky Morton,180,103,6.84,63,Nashville, Tennessee, USA
+859,Kenny King,183,104,6.84,115,Orlando, Florida, USA
+860,Big E,180,130,6.84,416,Tampa, Florida, USA
+861,Mascarita Dorada,134,48,6.83,58,Veracruz, Mexiko,
+862,Kid Kash,175,93,6.83,132,Waynesboro, West Virginia, USA
+863,Iron Sheik,183,117,6.83,157,Damghan, Provinz Semnan, Iran
+864,Bunny,168,54,6.83,89,Toronto, Ontario, Canada
+865,Xavier Woods,175,93,6.83,367,Marietta, Georgia, USA
+866,Aykut Artan,188,107,6.82,27,Istanbul, Türkei,
+867,Flip Gordon,178,88,6.82,65,Kalispell, Montana, USA
+868,Bob Backlund,185,109,6.82,190,Princeton, Minnesota, USA
+869,Wendi Richter,173,64,6.8,34,Dallas, Texas, USA
+870,Jimmy Lloyd,178,100,6.8,29,New Jersey, USA,
+871,Erick Stevens,183,86,6.79,95,Sarasota, Florida, USA
+872,Necro Butcher,185,105,6.79,181,Morgantown, West Virginia, USA
+873,Icarus,178,83,6.79,56,Pennsylvania, USA,
+874,Roman Reigns,190,120,6.79,1000,Pensacola, Florida, USA
+875,Arik Cannon,175,92,6.78,57,Chicago, Illinois, USA
+876,Taeler Hendrix,170,57,6.78,40,New Bedford, Massachusetts, USA
+878,Teoman,182,82,6.78,90,Berlin, Deutschland,
+879,Moose,196,136,6.78,117,Seabrook, Maryland, USA
+880,Messiah,185,96,6.77,29,Detroit, Michigan, USA
+881,Fabulous Moolah,165,63,6.77,94,Kershaw County, South Carolina, USA
+883,Makoto Oishi,170,75,6.77,25,Fuji, Shizuoka, Japan
+884,Desean Pratt,175,81,6.76,40,Pennsauken, New Jersey, USA
+885,Pascal Spalter,191,141,6.76,33,Berlin, Deutschland,
+886,Tony Schiavone,178,85,6.76,82,Craigsville, Virginia, USA
+887,Taichi,177,100,6.76,239,Ishikari, Hokkaido, Japan
+888,Demolition Ax,192,132,6.75,76,Brownsville, Pennsylvania, USA
+889,Chris Guy,175,96,6.75,54,Chicago, Illinois, USA
+890,Jigsaw,188,86,6.75,95,New York City, New York, USA
+891,Saki Kashima,163,50,6.75,55,Masuda, Shimane, Japan
+892,Yota Tsuji,182,91,6.75,27,Yokohama, Kanegawa, Japan
+893,Sgt. Slaughter,196,138,6.72,177,Detroit, Michigan, USA
+894,Rain,168,58,6.72,38,Sacramento, California, USA
+895,Jey Uso,188,109,6.71,193,San Francisco, California, USA
+896,Peter Avalon,178,75,6.71,37,Carson City, Nevada, USA
+897,Jaki Numazawa,174,100,6.71,34,Honjo, Saitama, Japan
+899,John Walters,183,102,6.7,29,Framingham, Massachusetts, USA
+900,Matt Borne,183,110,6.7,147,North Carolina, USA,
+901,Todd Grisham,185,73,6.69,99,Hattiesburg, Mississippi, USA
+902,Gerald Brisco,188,95,6.69,48,Oklahoma City, Oklahoma, USA
+904,Tiger Mask,173,85,6.69,130,Urayasu, Chiba, Japan
+905,Michael Modest,178,102,6.68,27,Berkeley, California, USA
+906,Sexxxy Eddy,185,90,6.68,43,Montreal, Quebec, Canada
+907,Jimmy Rave,173,94,6.67,84,Atlanta, Georgia, USA
+908,Bo Jones,186,92,6.67,69,Elmshorn, Schleswig-Holstein, Deutschland
+909,Taryn Terrell,167,57,6.67,107,New Orleans, Louisiana, USA
+910,Kaleb With A K,183,94,6.67,35,Cartersville, Georgia, USA
+911,Pat Patterson,178,111,6.66,72,Montreal, Quebec, Canada
+912,Chris Candido,175,105,6.66,105,Edison, New Jersey, USA
+913,Stephanie McMahon,173,65,6.66,389,Hartford, Connecticut, USA
+914,Jessy Sorensen,178,94,6.66,28,Katy, Texas, USA
+916,Matt Taven,188,99,6.66,91,Derry, New Hampshire, USA
+917,Session Moth Martina,167,63,6.66,46,Dublin, Ireland,
+918,Juventud Guerrera,165,80,6.65,157,Mexico City, Distrito Federal, Mexiko
+919,Marty Jannetty,181,104,6.65,205,Columbus, Georgia, USA
+920,Mikey Nicholls,185,106,6.65,47,Perth, Western Australia, Australia
+921,Brian Pillman Jr.,185,93,6.65,45,Cincinnati, Ohio, USA
+922,Mike Tenay,175,82,6.64,124,Los Angeles, California, USA
+923,Madison Rayne,160,52,6.64,127,Columbus, Ohio, USA
+924,Rambo,195,130,6.64,32,Montreal, Quebec, Canada
+925,YOSHI-HASHI,180,102,6.64,199,Togo, Aichi, Japan
+926,Torrie Wilson,176,58,6.63,237,Boise, Idaho, USA
+927,Jay Skillet,178,83,6.63,26,Solingen, Nordrhein-Westfalen, Deutschland
+928,Petey Williams,170,80,6.63,196,Windsor, Ontario, Canada
+929,Kikutaro,168,105,6.63,51,Osaka, Japan,
+930,Lince Dorado,170,77,6.63,122,East Pennsauken, New Jersey, USA
+931,Karrion Kross,194,120,6.63,111,New York City, New Cork, USA
+932,Silver King,176,98,6.62,36,Torreon, Coahuila, Mexiko
+933,Sandman,188,111,6.62,313,Philadelphia, Pennsylvania, USA
+934,Sean O'Haire,198,122,6.62,124,Hilton Head Island, South Carolina, USA
+935,Jimmy Uso,188,109,6.62,185,San Francisco, California, USA
+938,Hellvetic Warrior,180,112,6.61,30,Zürich, Schweiz,
+939,Crazzy Steve,178,91,6.61,50,Montreal, Quebec, Canada
+940,Veda Scott,155,52,6.61,48,Providence, Rhode Island, USA
+941,Jessica McKay,178,60,6.61,142,Sydney, New South Wales, Australia
+942,Gigi Dolin,165,52,6.61,32,Douglasville, Georgia, USA
+943,Evil Uno,180,100,6.6,100,Gatineau, Quebec, Canada
+944,Joey Janela,173,83,6.6,155,Hazlet Township, New Jersey, USA
+945,Cloudy,164,68,6.59,53,Webster Hall, New York, USA
+946,David Finlay,182,95,6.59,134,Achim, Niedersachsen, Deutschland
+947,Sika,188,145,6.58,30,Leone, Samoa,
+948,Dan Spivey,203,127,6.58,77,Griffin, Georgia, USA
+950,Tom LaRuffa,180,91,6.58,35,Nizza, Alpes-Maritimes, Frankreich
+951,Joe Gacy,183,113,6.57,41,Franklinville, New Jersey, USA
+952,Ivan Koloff,178,113,6.56,53,Ontario, Canada,
+953,Big John Studd,208,165,6.56,84,Butler, Pennsylvania, USA
+954,Jazzy Gabert,186,88,6.56,97,Berlin, Deutschland,
+955,Slick,193,90,6.55,59,Fort Worth, Texas, USA
+956,Super Crazy,173,98,6.55,185,Tulancingo, Hidalgo, Mexiko
+957,Col. Robert Parker,193,109,6.54,36,Dyersburg, Tennessee, USA
+958,Monty Brown,187,125,6.54,163,Bridgeport, Michigan, USA
+959,Earthquake,198,210,6.54,182,Surrey, British Columbia, Canada
+960,Charlie Haas,188,110,6.54,273,Houston, Texas, USA
+961,Don Fujii,175,105,6.54,34,Minoh, Osaka, Japan
+963,Al Snow,185,107,6.53,202,Lima, Ohio, USA
+964,Scott Norton,191,160,6.53,112,Minneapolis, Minnesota, USA
+965,Fallah Bahh,180,193,6.53,29,Bloomfield, New Jersey, USA
+966,Eric Young,183,102,6.53,338,Florence, Ontario, Canada
+967,Ariel,165,61,6.52,137,Chino, California, USA
+968,Armando Estrada,188,107,6.52,148,Chicago, Illinois, USA
+970,Havok,183,120,6.52,57,Canton, Ohio, USA
+971,Marc Roudin,173,82,6.51,76,Basel, Schweiz,
+972,Brad Armstrong,183,106,6.51,56,Marietta, Georgia, USA
+973,Anna Jay,173,65,6.51,56,Brunswick, Georgia, USA
+974,Michael Hayes,185,107,6.51,88,Pensacola, Florida, USA
+975,Matt Rehwoldt,190,98,6.5,187,Chicago, Illinois, USA
+976,Ivan Putski,175,110,6.5,33,Krakau, Kleinpolen, Polen
+977,Zelina Vega,154,48,6.5,115,New York City, New York, USA
+978,Great-O-Khan,185,110,6.5,71,Maebashi, Gunma, Japan
+979,Teddy Hart,183,85,6.49,132,Calgary, Alberta, Canada
+980,Catrina,163,54,6.48,68,Tampa, Florida, USA
+981,Nikita Koloff,188,122,6.48,45,Minneapolis, Minnesota, USA
+982,Dan Severn,188,123,6.47,54,Coldwater, Michigan, USA
+983,Teddy Long,178,73,6.46,218,Birmingham, Alabama, USA
+984,Max Boyer,173,77,6.46,25,Longueuil, Quebec, Canada
+985,Karsten Beck,181,106,6.46,141,Bottrop, Nordrhein-Westfalen, Deutschland
+986,Lars Sullivan,190,137,6.46,73,Westminster, Colorado, USA
+987,Brooklyn Brawler,183,109,6.46,143,New York City, New York, USA
+988,Chelsea Green,170,57,6.46,53,Victoria, British Columbia, Canada
+989,Rachael Ellering,168,64,6.46,25,Sauk Centre, Minnesota, USA
+990,Shawn Spears,191,107,6.46,248,St. Catharines, Ontario, Canada
+991,Chad Collyer,174,97,6.45,39,Liberty, Indiana, USA
+992,Rezar,194,140,6.45,50,Albanien,,
+993,Sonya Deville,170,59,6.45,103,New Jersey, USA,
+994,Pinkie Sanchez,180,77,6.44,35,New York, New York, USA
+995,Greg Valentine,180,113,6.44,136,Seattle, Washington, USA
+996,Nyla Rose,175,77,6.43,109,Washington, District Of Columbia, USA
+997,Nate Webb,188,84,6.42,47,Indianapolis, Indiana, USA
+998,Blackjack Mulligan,198,157,6.42,30,Sweetwater, Texas, USA
+1000,Gamma,170,80,6.42,30,Iwaki, Fukushima, Japan
