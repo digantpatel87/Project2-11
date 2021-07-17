@@ -1,6 +1,13 @@
 body { font-family: 'Open Sans', sans-serif; font-size: 15px; font-weight: 400; color: #333; background-color: rgb(202, 202, 202);line-height: 30px; text-align: center; }
 h1 {font-size: 28px; color: rgb(0, 0, 0);}
 
+#map,
+body,
+html {
+  height: 80%;
+  width: 100%;
+}
+
 /* Navbar Specific Bootstrap */
 .navbar {
   background-color: #333;
