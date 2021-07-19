@@ -20,6 +20,8 @@ from flask import (
     redirect)
 import sqlite3
 
+from sqlalchemy.sql.expression import false
+
 # %%
 # Variable to hold csv files
 csvfile = ["Resources/event_match.csv", "Resources/wrestlers_data.csv","Resources/wrestlers_data_withLatLon.csv"]
@@ -131,13 +133,13 @@ def wrestlingdata():
     # }]
     # rows = cur.fetchall(); 
     # return jsonify(wrestlingdata_data)
-    return df.to_json()
+    return df.to_csv()
 
 @app.route("/api/wwelatlon")
 def wwelatlondata():
     con = sqlite3.connect("wrestling.sqlite")
-    df = pd.read_sql_query("select Number,Gimmick,CareerStart,Birthday,Birthplace,Latitude,Longitude from wwelatlon", con)
-    return df.to_json()
+    df = pd.read_sql_query("select * from wwelatlon", con)
+    return df.to_csv()
 
 if __name__ == '__main__':
     app.run(debug=True)

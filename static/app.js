@@ -7,21 +7,33 @@ function init() {
 
     // debugger;
     //var result = conn.query("SELECT * FROM wrestling;");
-    d3.json(wrestlingdataurl).then(function(response) {
+    d3.csv(wrestlingdataurl).then(function(response) {
       // console.log(response);
 
-    // const importedData = response;
+    var importedData = response;
     
         // console.log(importedData);
         var data = response;
         var selDataset = document.getElementById("selDataset");
-        for (element in data.Name) {
-            var opt = document.createElement("option");
-            opt.value = data.Name[element];
-            opt.innerHTML = data.Name[element];
+        // debugger;
+        // for (element in data.Name) {
+        //   debugger;
+        //     var opt = document.createElement("option");
+        //     opt.value = data.Name[element];
+        //     opt.innerHTML = data.Name[element];
+        //     // then append it to the select element
+        //     selDataset.appendChild(opt);
+        // };
+
+
+        for (var i = 0; i < data.length; i++) {
+          // debugger;
+          var opt = document.createElement("option");
+            opt.value = data[i].Name;
+            opt.innerHTML = data[i].Name;
             // then append it to the select element
             selDataset.appendChild(opt);
-        };
+        }
 
         var dropdownMenu = d3.select("#selDataset");
         // Assign the value of the dropdown menu option to a variable
@@ -31,11 +43,28 @@ function init() {
         var initial_value = selectedValue;
         // var initial_intvalue = selectedValue;
 
-        function filterSamples(InitialData) {
-          debugger;
-            return InitialData.Name == initial_value;
+
+        // propertyNames = Object.entries(importedData);
+
+        // function filterSamples(InitialData) {
+        //   debugger;
+        //     return InitialData.Name == initial_value;
+        // }
+        // debugger;
+        for (var i = 0; i < importedData.length; i++) {
+          if (importedData[i].Name == initial_value){
+            filterdata = Object.entries(importedData[i]);
+            break;
+          }
+
         }
 
+
+
+      //   filterdata = importedData.columns[2].filter(function(row) {
+      //     return row == selectedValue ;
+      // })
+        console.log(filterdata)
         // function filtermetadata(InitialintData) {
         //     return InitialintData.id == initial_intvalue;
         // }
@@ -110,65 +139,66 @@ function init() {
           
         //   Plotly.newPlot('bubble', data, layout);
 
-        //   var metadatadiv = document.getElementById("sample-metadata");
-        //   var metadatatable = document.createElement("table");
-        //   var row = document.createElement("tr");
-        //   var column = document.createElement("td");
-        // // Rank,Name,Height,Weight,Rating,Votes,City,State,Country
-        //   metadatadiv.innerHTML = "";
-        //   column.innerHTML = "Name: " + Name;
-        //   row.appendChild(column);
-        //   metadatatable.appendChild(row);
+          var metadatadiv = document.getElementById("sample-metadata");
+          var metadatatable = document.createElement("table");
+          var row = document.createElement("tr");
+          var column = document.createElement("td");
+        // Rank,Name,Height,Weight,Rating,Votes,City,State,Country
+          // debugger;
+          metadatadiv.innerHTML = "";
+          column.innerHTML = "Name: " + filterdata[2][1];
+          row.appendChild(column);
+          metadatatable.appendChild(row);
 
-        //   row = document.createElement("tr");
-        //   column = document.createElement("td");
-        //   column.innerHTML = "Rank: " + Rank;
-        //   row.appendChild(column);
-        //   metadatatable.appendChild(row);
+          row = document.createElement("tr");
+          column = document.createElement("td");
+          column.innerHTML = "Rank: " +  filterdata[1][1];
+          row.appendChild(column);
+          metadatatable.appendChild(row);
 
-        //   row = document.createElement("tr");
-        //   column = document.createElement("td");
-        //   column.innerHTML = "Height: " + Height;
-        //   row.appendChild(column);
-        //   metadatatable.appendChild(row);
+          row = document.createElement("tr");
+          column = document.createElement("td");
+          column.innerHTML = "Height: " + filterdata[3][1];
+          row.appendChild(column);
+          metadatatable.appendChild(row);
 
-        //   row = document.createElement("tr");
-        //   column = document.createElement("td");
-        //   column.innerHTML = "Weight: " + Weight;
-        //   row.appendChild(column);
-        //   metadatatable.appendChild(row);
+          row = document.createElement("tr");
+          column = document.createElement("td");
+          column.innerHTML = "Weight: " + filterdata[4][1];
+          row.appendChild(column);
+          metadatatable.appendChild(row);
 
-        //   row = document.createElement("tr");
-        //   column = document.createElement("td");
-        //   column.innerHTML = "Rating: " + Rating;
-        //   row.appendChild(column);
-        //   metadatatable.appendChild(row);
+          row = document.createElement("tr");
+          column = document.createElement("td");
+          column.innerHTML = "Rating: " + filterdata[5][1];
+          row.appendChild(column);
+          metadatatable.appendChild(row);
 
-        //   row = document.createElement("tr");
-        //   column = document.createElement("td");
-        //   column.innerHTML = "Votes: " + Votes;
-        //   row.appendChild(column);
-        //   metadatatable.appendChild(row);
+          row = document.createElement("tr");
+          column = document.createElement("td");
+          column.innerHTML = "Votes: " + filterdata[6][1];
+          row.appendChild(column);
+          metadatatable.appendChild(row);
 
-        //   row = document.createElement("tr");
-        //   column = document.createElement("td");
-        //   column.innerHTML = "City: " + City;
-        //   row.appendChild(column);
-        //   metadatatable.appendChild(row);
+          row = document.createElement("tr");
+          column = document.createElement("td");
+          column.innerHTML = "City: " + filterdata[7][1];
+          row.appendChild(column);
+          metadatatable.appendChild(row);
 
-        //   row = document.createElement("tr");
-        //   column = document.createElement("td");
-        //   column.innerHTML = "State: " + State;
-        //   row.appendChild(column);
-        //   metadatatable.appendChild(row);
+          row = document.createElement("tr");
+          column = document.createElement("td");
+          column.innerHTML = "State: " + filterdata[8][1];
+          row.appendChild(column);
+          metadatatable.appendChild(row);
           
-        //   row = document.createElement("tr");
-        //   column = document.createElement("td");
-        //   column.innerHTML = "Country: " + Country;
-        //   row.appendChild(column);
-        //   metadatatable.appendChild(row);
+          row = document.createElement("tr");
+          column = document.createElement("td");
+          column.innerHTML = "Country: " + filterdata[9][1];
+          row.appendChild(column);
+          metadatatable.appendChild(row);
 
-        //   metadatadiv.appendChild(metadatatable);
+          metadatadiv.appendChild(metadatatable);
         });
 
         
@@ -179,9 +209,9 @@ function init() {
 d3.selectAll("#selDataset").on("change", init);
 
 const wwelatlon = "/api/wwelatlon";
-d3.json(wwelatlon).then(function(response) {
+d3.csv(wwelatlon).then(function(response) {
   var FinalData = response;
-  debugger;
+  // debugger;
   var myMap = L.map("map", {
     center: [
       37.09, -95.71
@@ -204,7 +234,7 @@ d3.json(wwelatlon).then(function(response) {
    // Add circles to map
    for (var i = 0; i < FinalData.length; i++) {
 
-     debugger;
+    //  debugger;
      L.circleMarker([FinalData[i].Latitude, FinalData[i].Longitude], {
          fillOpacity: 0.75,
          color: "blue",

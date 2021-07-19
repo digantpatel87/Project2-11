@@ -1,140 +1,140 @@
 Number,Gimmick,CareerStart,Birthday,Birthplace,Latitude,Longitude
-1,John Cena,05.11.1999,23.04.1977,West Newbury, Massachusetts,42.79414,-70.971068
-2,AJ Styles,15.02.1999,02.06.1977,Jacksonville, North Carolina,34.754586,-77.507427
-3,Randy Orton,02.04.1999,01.04.1980,Knoxville, Tennessee,36.032334,-83.884804
-4,Triple H,3.1992,27.07.1969,Nashua, New Hampshire,42.741295,-71.458793
-5,Jeff Hardy,15.10.1993,31.08.1977,Cameron, North Carolina,35.310584,-79.347244
-6,The Miz,2003,08.10.1980,Parma, Ohio,41.404774,-81.722909
-7,Rey Mysterio,30.04.1989,11.12.1974,San Ysidro, California,32.553631,-117.042502
-8,Roman Reigns,19.08.2010,25.05.1985,Pensacola, Florida,30.428781,-87.222516
-9,Seth Rollins,2004,28.05.1986,Buffalo, Iowa,41.45559,-90.72097
-10,John Morrison,2002,03.10.1979,Palos Verdes, California,38.689283,-120.054929
-11,Samoa Joe,12.1999,17.03.1979,Orange County, California,33.675687,-117.777207
-12,Dolph Ziggler,9.2004,27.07.1980,Cleveland, Ohio,41.489381,-81.667486
-13,Goldberg,23.06.1997,27.12.1966,Tulsa, Oklahoma,36.063095,-95.804231
-14,MVP,29.06.1999,28.10.1973,Miami, Florida,25.558428,-80.458168
-15,The Fiend,2.2009,23.05.1987,Brooksville, Florida,28.586197,-82.395858
-16,John Bradshaw Layfield,23.09.1992,29.11.1966,Athens, Texas,32.188097,-95.882391
-17,Bobby Lashley,1999,16.07.1976,Kansas City, Missouri,39.102404,-94.598583
-18,Booker T,1989,01.05.1965,Houston, Texas,29.813142,-95.309789
-19,Sasha Banks,08.08.2010,26.01.1992,Fairfield, California,38.278428,-122.020276
-20,Charlotte Flair,10.2012,05.04.1986,Charlotte, North Carolina,35.26002,-80.804151
-21,Vince McMahon,13.04.1998,24.08.1945,Pinehurst, North Carolina,35.216222,-79.452352
-22,Shelton Benjamin,2000,09.07.1975,Orangeburg, South Carolina,33.490935,-80.821825
-23,R-Truth,3.1997,19.01.1972,Charlotte, North Carolina,35.26002,-80.804151
-24,Ricochet,11.10.2003,11.10.1988,Alton, Illinois,38.8906,-90.18428
-25,Shane McMahon,15.12.1998,15.01.1970,Gaithersburg, Maryland,39.139336,-77.182953
-26,The Brian Kendrick,04.10.1999,29.05.1979,Fairfax, Virginia,38.853231,-77.305097
-27,Adam Cole,06.04.2008,05.07.1989,Panama City, Florida,30.159737,-85.660922
-28,Bayley,19.09.2008,15.06.1989,Newark, California,37.534102,-122.025352
-29,Baron Corbin,2012,13.09.1984,Lenexa, Kansas,38.953617,-94.733571
-30,Roderick Strong,2000,22.04.1985,Eau Claire, Wisconsin,44.75653,-91.473097
-31,Johnny Gargano,2005,14.08.1987,Lakewood, Ohio,41.48199,-81.79819
-32,Alexa Bliss,20.09.2013,09.08.1991,Columbus, Ohio,40.100924,-83.013402
-33,Jeff Jarrett,06.04.1986,14.07.1967,Hendersonville, Tennessee,36.347551,-86.612045
-34,Beth Phoenix,5.2001,24.11.1980,Elmira, New York,42.082585,-76.71857
-35,Big E,17.12.2009,01.03.1986,Tampa, Florida,27.996097,-82.582035
-36,Joseph Parks,1.1995,04.10.1973,Washington, District Of Columbia,38.911936,-77.016719
-37,Stephanie McMahon,20.09.1999,24.09.1976,Hartford, Connecticut,41.791776,-72.718832
-38,Jerry Lawler,1970,29.11.1949,Memphis, Tennessee,35.050667,-89.847782
-39,Xavier Woods,2005,04.09.1986,Marietta, Georgia,33.912473,-84.557181
-40,Alicia Fox,2006,30.06.1986,Ponte Verde, Florida,30.435237,-81.92122
-41,Shane Helms,06.07.1990,12.07.1972,Smithfield, North Carolina,35.536543,-78.336001
-42,Eva Marie,2013,19.09.1984,Concord, California,37.953672,-122.022872
-43,Tommaso Ciampa,08.01.2005,08.05.1985,Everett, Massachusetts,42.407396,-71.051183
-44,Boogeyman,15.10.2004,31.10.1964,Phoenix, Arizona,33.703967,-112.351835
-45,Apollo Crews,17.08.2009,25.08.1987,Sacramento, California,38.377411,-121.444429
-46,Jamie Noble,1995,23.12.1976,Hanover, West Virginia,37.57289,-81.79956
-47,Matt Bloom,1997,14.11.1973,Peabody, Massachusetts,42.536996,-70.973646
-48,Naomi,03.09.2009,30.11.1987,Sanford, Florida,28.793491,-81.299169
-49,Road Dogg,1991,20.05.1969,Marietta, Georgia,33.912473,-84.557181
-50,David Otunga,20.03.2009,07.04.1980,Elgin, Illinois,42.034492,-88.238396
-51,Carmella,2014,23.10.1987,Worcester, Massachusetts,42.265275,-71.879415
-52,Riddle,24.01.2015,14.01.1986,Allentown, Pennsylvania,40.602658,-75.469236
-53,Titus O'Neil,2009,29.04.1977,Boynton Beach, Florida,26.645895,-80.430269
-54,Chad Gable,2012,08.03.1986,Minneapolis, Minnesota,44.984577,-93.269097
-55,Dana Brooke,18.09.2014,29.11.1988,Seven Hills, Ohio,41.39533,-81.676239
-56,Ember Moon,2007,31.08.1988,Dallas, Texas,32.781179,-96.790329
-57,Keith Lee,2.2005,08.11.1984,Wichita Falls, Texas,33.905544,-98.479881
-58,Elias,07.06.2008,22.11.1987,Pittsburgh, Pennsylvania,40.47441,-79.950968
-59,Drew Gulak,16.04.2005,28.04.1987,Philadelphia, Pennsylvania,40.001811,-75.11787
-60,Scott Garland,23.11.1989,02.07.1970,Westbrook, Maine,43.707947,-70.352614
-61,Daivari,1999,30.04.1984,Minneapolis, Minnesota,44.984577,-93.269097
-62,Tatanka,13.01.1990,08.06.1965,Pembroke, North Carolina,34.716443,-79.127951
-63,Shayna Baszler,26.09.2015,08.08.1980,Sioux Falls, South Dakota,43.546358,-96.69063
-64,Cedric Alexander,17.07.2009,16.08.1989,Charlotte, North Carolina,35.26002,-80.804151
-65,Bob Backlund,1973,14.08.1949,Princeton, Minnesota,45.56996,-93.58163
-66,Bobby Fish,2003,27.10.1976,Albany, New York,42.614852,-73.970812
-67,Timothy Thatcher,2005,02.06.1983,Sacramento, California,38.377411,-121.444429
-68,Cameron Grimes,10.2007,30.09.1993,Cameron, North Carolina,35.310584,-79.347244
-69,Mustafa Ali,02.02.2003,28.03.1986,Bolingbrook, Illinois,41.7006,-88.075006
-70,Bianca Belair,29.09.2016,09.04.1989,Knoxville, Tennessee,36.032334,-83.884804
-71,Oney Lorcan,2008,21.12.1985,Boston, Massachusetts,42.354318,-71.073449
-72,Charles Robinson,1986,02.07.1964,Charlotte, North Carolina,35.26002,-80.804151
-73,Liv Morgan,27.06.2015,08.06.1994,Paramus, New Jersey,40.944997,-74.068964
-74,Mandy Rose,30.01.2016,18.07.1991,Westchester County, New York,41.152686,-73.745753
-75,Corey Graves,22.03.2000,24.02.1984,Pittsburgh, Pennsylvania,40.47441,-79.950968
-76,Adam Pearce,16.05.1996,24.06.1978,Lake Forest, Illinois,42.240027,-87.877569
-77,Isaiah Scott,3.2009,30.09.1990,Tacoma, Washington,47.250158,-122.43903
-78,John Laurinaitis,1986,31.07.1962,San Bernadino, California,34.104794,-117.29215
-79,T-BAR,2013,23.04.1987,Worcester, Massachusetts,42.265275,-71.879415
-80,Joaquin Wilde,21.08.2004,05.10.1986,Los Angeles, California,33.973951,-118.248405
-81,Sara Amato,2001,13.11.1980,Martinez, California,37.986421,-122.134976
-82,Lince Dorado,17.02.2007,11.05.1987,East Pennsauken, New Jersey,39.971224,-75.022393
-83,Zelina Vega,20.02.2010,27.12.1990,New York City, New York,40.750422,-73.996328
-84,Reckoning,22.08.2009,16.04.1989,Fontana, California,34.103288,-117.4363
-85,Robert Stone,01.10.2000,01.10.1983,Alpine, New Jersey,40.958975,-73.927906
-86,Karrion Kross,2014,19.07.1985,New York City, New York,40.750422,-73.996328
-87,Jaxson Ryker,8.2001,06.06.1982,Hickory, North Carolina,35.758221,-81.308224
-88,Byron Saxton,2003,20.08.1981,Burke, Virginia,38.785864,-77.286156
-89,Damian Priest,2004,04.02.1982,West Nyack, New York,41.100622,-73.970482
-90,Otis,22.08.2015,21.12.1991,Duluth, Minnesota,47.005566,-92.001934
-91,Angelo Dawkins,19.06.2012,24.07.1990,Fairfield, Ohio,39.325714,-84.55239
-92,LA Knight,2002,01.11.1982,Hagerstown, Maryland,39.58887,-77.700213
-93,Mercedes Martinez,12.11.2000,17.11.1980,Waterbury, Connecticut,41.556461,-73.045886
-94,Ivar,15.02.2002,03.03.1984,Lynn, Massachusetts,42.461246,-70.946743
-95,Michael Hayes,5.1977,29.03.1959,Pensacola, Florida,30.428781,-87.222516
-96,Dexter Lumis,21.09.2007,17.01.1984,Jacksonville, Florida,30.389438,-81.680806
-97,Ranjin Singh,2007,17.11.1975,Bay Area, California,37.776646,-122.417481
-98,Steve Keirn,1972,10.09.1951,Tampa, Florida,27.996097,-82.582035
-99,Erik,07.06.2003,21.08.1984,Cleveland, Ohio,41.489381,-81.667486
-100,Austin Theory,4.2016,02.08.1997,McDonough, Georgia,33.476762,-84.055005
-101,Raquel Gonzalez,9.2014,12.01.1991,La Feria, Texas,26.15896,-97.82389
-102,Riddick Moss,18.12.2014,10.08.1989,Edina, Minnesota,44.889687,-93.349949
-103,Dominik Mysterio,23.08.2020,05.04.1997,San Diego, California,32.724103,-117.170912
-104,Chris Guy,10.1991,25.01.1973,Chicago, Illinois,41.88531,-87.62213
-105,Wes Lee,2011,02.11.1994,Dayton, Ohio,39.750471,-84.268593
-106,JoJo,10.03.1994,Toluca Lake, Los Angeles, California,34.146227,-118.358594
-107,Scarlett,2011,13.05.1991,Chicago, Illinois,41.88531,-87.62213
-108,Scott Armstrong,1983,04.05.1959,Marietta, Georgia,33.912473,-84.557181
-109,Joe Gacy,2006,08.08.1987,Franklinville, New Jersey,39.59823,-75.035749
-110,Kacy Catanzaro,19.04.2018,14.01.1990,Glen Ridge, New Jersey,40.807499,-74.205039
-111,Paul Ellering,1.1978,22.08.1953,Melrose, Minnesota,45.67469,-94.80752
-112,Jake Atlas,06.08.2016,05.10.1994,El Monte, California,34.078573,-118.043456
-113,Gigi Dolin,3.2015,05.06.1997,Douglasville, Georgia,33.759543,-84.777337
-114,Chad Patton,1996,05.05.1976,Urbana, Illinois,40.108966,-88.211024
-115,Leon Ruff,16.06.2017,14.04.1996,Pensacola, Florida,30.428781,-87.222516
-116,Ari Sterling,2005,28.10.1986,Lexington, Kentucky,38.016674,-84.486043
-117,Nash Carter,17.12.2014,29.04.1994,Dayton, Ohio,39.750471,-84.268593
-118,Dan Engler,06.07.1996,20.11.1977,Evansville, Indiana,37.997128,-87.574963
-119,Mace,01.02.2016,05.02.1991,North Easton, Massachusetts,42.055136,-71.081416
-120,Pat McAfee,22.08.2020,02.05.1987,Plum, Pennsylvania,40.500346,-79.749491
-121,Scott Stanford,2009,30.08.1966,Haverstraw, New York,41.191694,-73.964933
-122,Tyler Rust,27.03.2004,26.01.1987,Phelan, California,34.839964,-115.967051
-123,Asher Hale,2002,29.12.1984,Augusta, Georgia,33.456687,-81.969184
-124,Andre Chase,6.2008,22.04.1989,Draper, North Carolina,0,0
-125,Malcolm Bivens,18.04.2014,12.11.,New York City, New York,40.750422,-73.996328
-126,Sarath Ton,2002,09.06.1983,Springfield, Massachusetts,42.170731,-72.604842
-127,Jessi Kamea,07.10.2017,10.10.1988,Austin, Texas,30.268335,-97.741382
-128,Jessika Carr,2010,25.06.1991,Baltimore, Maryland,39.296536,-76.623489
-129,Pat Buck,2003,24.12.1984,New York City, New York,40.750422,-73.996328
-130,Cora Jade,09.12.2018,14.01.2001,Chicago, Illinois,41.88531,-87.62213
-131,Rick Boogs,19.10.2017,01.12.1987,Franklin, Wisconsin,42.887289,-88.009597
-132,Shawn Bennett,2002,25.10.1987,Butler, New Jersey,40.998797,-74.426148
-133,Mike Rome,20.05.2016,08.10.1981,San Diego, California,32.724103,-117.170912
-134,Stephon Smith,2007,21.08.1989,Baltimore, Maryland,39.296536,-76.623489
-135,Zayda Ramier,2018,10.09.,Gilbertown, Alabama,31.8771,-88.32141
-136,Cal Bloom,03.05.2019,1994,Osseo, Minnesota,45.124263,-93.499583
-137,Top Dolla,25.10.2018,07.05.1990,Washington, District Of Columbia,38.911936,-77.016719
-138,Odyssey Jones,07.11.2019,17.05.1994,Coram, New York,40.88124,-73.00588
-139,Danilo Anfibio,2002,29.10.1987,West Paterson, New Jersey,40.889821,-74.194867
+1,John Cena,05.11.1999,23.04.1977,West Newbury Massachusetts,42.79414,-70.971068
+2,AJ Styles,15.02.1999,02.06.1977,Jacksonville North Carolina,34.754586,-77.507427
+3,Randy Orton,02.04.1999,01.04.1980,Knoxville Tennessee,36.032334,-83.884804
+4,Triple H,3.1992,27.07.1969,Nashua New Hampshire,42.741295,-71.458793
+5,Jeff Hardy,15.10.1993,31.08.1977,Cameron North Carolina,35.310584,-79.347244
+6,The Miz,2003,08.10.1980,Parma Ohio,41.404774,-81.722909
+7,Rey Mysterio,30.04.1989,11.12.1974,San Ysidro California,32.553631,-117.042502
+8,Roman Reigns,19.08.2010,25.05.1985,Pensacola Florida,30.428781,-87.222516
+9,Seth Rollins,2004,28.05.1986,Buffalo Iowa,41.45559,-90.72097
+10,John Morrison,2002,03.10.1979,Palos Verdes California,38.689283,-120.054929
+11,Samoa Joe,12.1999,17.03.1979,Orange County California,33.675687,-117.777207
+12,Dolph Ziggler,9.2004,27.07.1980,Cleveland Ohio,41.489381,-81.667486
+13,Goldberg,23.06.1997,27.12.1966,Tulsa Oklahoma,36.063095,-95.804231
+14,MVP,29.06.1999,28.10.1973,Miami Florida,25.558428,-80.458168
+15,The Fiend,2.2009,23.05.1987,Brooksville Florida,28.586197,-82.395858
+16,John Bradshaw Layfield,23.09.1992,29.11.1966,Athens Texas,32.188097,-95.882391
+17,Bobby Lashley,1999,16.07.1976,Kansas City Missouri,39.102404,-94.598583
+18,Booker T,1989,01.05.1965,Houston Texas,29.813142,-95.309789
+19,Sasha Banks,08.08.2010,26.01.1992,Fairfield California,38.278428,-122.020276
+20,Charlotte Flair,10.2012,05.04.1986,Charlotte North Carolina,35.26002,-80.804151
+21,Vince McMahon,13.04.1998,24.08.1945,Pinehurst North Carolina,35.216222,-79.452352
+22,Shelton Benjamin,2000,09.07.1975,Orangeburg South Carolina,33.490935,-80.821825
+23,R-Truth,3.1997,19.01.1972,Charlotte North Carolina,35.26002,-80.804151
+24,Ricochet,11.10.2003,11.10.1988,Alton Illinois,38.8906,-90.18428
+25,Shane McMahon,15.12.1998,15.01.1970,Gaithersburg Maryland,39.139336,-77.182953
+26,The Brian Kendrick,04.10.1999,29.05.1979,Fairfax Virginia,38.853231,-77.305097
+27,Adam Cole,06.04.2008,05.07.1989,Panama City Florida,30.159737,-85.660922
+28,Bayley,19.09.2008,15.06.1989,Newark California,37.534102,-122.025352
+29,Baron Corbin,2012,13.09.1984,Lenexa Kansas,38.953617,-94.733571
+30,Roderick Strong,2000,22.04.1985,Eau Claire Wisconsin,44.75653,-91.473097
+31,Johnny Gargano,2005,14.08.1987,Lakewood Ohio,41.48199,-81.79819
+32,Alexa Bliss,20.09.2013,09.08.1991,Columbus Ohio,40.100924,-83.013402
+33,Jeff Jarrett,06.04.1986,14.07.1967,Hendersonville Tennessee,36.347551,-86.612045
+34,Beth Phoenix,5.2001,24.11.1980,Elmira New York,42.082585,-76.71857
+35,Big E,17.12.2009,01.03.1986,Tampa Florida,27.996097,-82.582035
+36,Joseph Parks,1.1995,04.10.1973,Washington District Of Columbia,38.911936,-77.016719
+37,Stephanie McMahon,20.09.1999,24.09.1976,Hartford Connecticut,41.791776,-72.718832
+38,Jerry Lawler,1970,29.11.1949,Memphis Tennessee,35.050667,-89.847782
+39,Xavier Woods,2005,04.09.1986,Marietta Georgia,33.912473,-84.557181
+40,Alicia Fox,2006,30.06.1986,Ponte Verde Florida,30.435237,-81.92122
+41,Shane Helms,06.07.1990,12.07.1972,Smithfield North Carolina,35.536543,-78.336001
+42,Eva Marie,2013,19.09.1984,Concord California,37.953672,-122.022872
+43,Tommaso Ciampa,08.01.2005,08.05.1985,Everett Massachusetts,42.407396,-71.051183
+44,Boogeyman,15.10.2004,31.10.1964,Phoenix Arizona,33.703967,-112.351835
+45,Apollo Crews,17.08.2009,25.08.1987,Sacramento California,38.377411,-121.444429
+46,Jamie Noble,1995,23.12.1976,Hanover West Virginia,37.57289,-81.79956
+47,Matt Bloom,1997,14.11.1973,Peabody Massachusetts,42.536996,-70.973646
+48,Naomi,03.09.2009,30.11.1987,Sanford Florida,28.793491,-81.299169
+49,Road Dogg,1991,20.05.1969,Marietta Georgia,33.912473,-84.557181
+50,David Otunga,20.03.2009,07.04.1980,Elgin Illinois,42.034492,-88.238396
+51,Carmella,2014,23.10.1987,Worcester Massachusetts,42.265275,-71.879415
+52,Riddle,24.01.2015,14.01.1986,Allentown Pennsylvania,40.602658,-75.469236
+53,Titus O'Neil,2009,29.04.1977,Boynton Beach Florida,26.645895,-80.430269
+54,Chad Gable,2012,08.03.1986,Minneapolis Minnesota,44.984577,-93.269097
+55,Dana Brooke,18.09.2014,29.11.1988,Seven Hills Ohio,41.39533,-81.676239
+56,Ember Moon,2007,31.08.1988,Dallas Texas,32.781179,-96.790329
+57,Keith Lee,2.2005,08.11.1984,Wichita Falls Texas,33.905544,-98.479881
+58,Elias,07.06.2008,22.11.1987,Pittsburgh Pennsylvania,40.47441,-79.950968
+59,Drew Gulak,16.04.2005,28.04.1987,Philadelphia Pennsylvania,40.001811,-75.11787
+60,Scott Garland,23.11.1989,02.07.1970,Westbrook Maine,43.707947,-70.352614
+61,Daivari,1999,30.04.1984,Minneapolis Minnesota,44.984577,-93.269097
+62,Tatanka,13.01.1990,08.06.1965,Pembroke North Carolina,34.716443,-79.127951
+63,Shayna Baszler,26.09.2015,08.08.1980,Sioux Falls South Dakota,43.546358,-96.69063
+64,Cedric Alexander,17.07.2009,16.08.1989,Charlotte North Carolina,35.26002,-80.804151
+65,Bob Backlund,1973,14.08.1949,Princeton Minnesota,45.56996,-93.58163
+66,Bobby Fish,2003,27.10.1976,Albany New York,42.614852,-73.970812
+67,Timothy Thatcher,2005,02.06.1983,Sacramento California,38.377411,-121.444429
+68,Cameron Grimes,10.2007,30.09.1993,Cameron North Carolina,35.310584,-79.347244
+69,Mustafa Ali,02.02.2003,28.03.1986,Bolingbrook Illinois,41.7006,-88.075006
+70,Bianca Belair,29.09.2016,09.04.1989,Knoxville Tennessee,36.032334,-83.884804
+71,Oney Lorcan,2008,21.12.1985,Boston Massachusetts,42.354318,-71.073449
+72,Charles Robinson,1986,02.07.1964,Charlotte North Carolina,35.26002,-80.804151
+73,Liv Morgan,27.06.2015,08.06.1994,Paramus New Jersey,40.944997,-74.068964
+74,Mandy Rose,30.01.2016,18.07.1991,Westchester County New York,41.152686,-73.745753
+75,Corey Graves,22.03.2000,24.02.1984,Pittsburgh Pennsylvania,40.47441,-79.950968
+76,Adam Pearce,16.05.1996,24.06.1978,Lake Forest Illinois,42.240027,-87.877569
+77,Isaiah Scott,3.2009,30.09.1990,Tacoma Washington,47.250158,-122.43903
+78,John Laurinaitis,1986,31.07.1962,San Bernadino California,34.104794,-117.29215
+79,T-BAR,2013,23.04.1987,Worcester Massachusetts,42.265275,-71.879415
+80,Joaquin Wilde,21.08.2004,05.10.1986,Los Angeles California,33.973951,-118.248405
+81,Sara Amato,2001,13.11.1980,Martinez California,37.986421,-122.134976
+82,Lince Dorado,17.02.2007,11.05.1987,East Pennsauken New Jersey,39.971224,-75.022393
+83,Zelina Vega,20.02.2010,27.12.1990,New York City New York,40.750422,-73.996328
+84,Reckoning,22.08.2009,16.04.1989,Fontana California,34.103288,-117.4363
+85,Robert Stone,01.10.2000,01.10.1983,Alpine New Jersey,40.958975,-73.927906
+86,Karrion Kross,2014,19.07.1985,New York City New York,40.750422,-73.996328
+87,Jaxson Ryker,8.2001,06.06.1982,Hickory North Carolina,35.758221,-81.308224
+88,Byron Saxton,2003,20.08.1981,Burke Virginia,38.785864,-77.286156
+89,Damian Priest,2004,04.02.1982,West Nyack New York,41.100622,-73.970482
+90,Otis,22.08.2015,21.12.1991,Duluth Minnesota,47.005566,-92.001934
+91,Angelo Dawkins,19.06.2012,24.07.1990,Fairfield Ohio,39.325714,-84.55239
+92,LA Knight,2002,01.11.1982,Hagerstown Maryland,39.58887,-77.700213
+93,Mercedes Martinez,12.11.2000,17.11.1980,Waterbury Connecticut,41.556461,-73.045886
+94,Ivar,15.02.2002,03.03.1984,Lynn Massachusetts,42.461246,-70.946743
+95,Michael Hayes,5.1977,29.03.1959,Pensacola Florida,30.428781,-87.222516
+96,Dexter Lumis,21.09.2007,17.01.1984,Jacksonville Florida,30.389438,-81.680806
+97,Ranjin Singh,2007,17.11.1975,Bay Area California,37.776646,-122.417481
+98,Steve Keirn,1972,10.09.1951,Tampa Florida,27.996097,-82.582035
+99,Erik,07.06.2003,21.08.1984,Cleveland Ohio,41.489381,-81.667486
+100,Austin Theory,4.2016,02.08.1997,McDonough Georgia,33.476762,-84.055005
+101,Raquel Gonzalez,9.2014,12.01.1991,La Feria Texas,26.15896,-97.82389
+102,Riddick Moss,18.12.2014,10.08.1989,Edina Minnesota,44.889687,-93.349949
+103,Dominik Mysterio,23.08.2020,05.04.1997,San Diego California,32.724103,-117.170912
+104,Chris Guy,10.1991,25.01.1973,Chicago Illinois,41.88531,-87.62213
+105,Wes Lee,2011,02.11.1994,Dayton Ohio,39.750471,-84.268593
+106,JoJo,10.03.1994,Toluca Lake, Los Angeles California,34.146227,-118.358594
+107,Scarlett,2011,13.05.1991,Chicago Illinois,41.88531,-87.62213
+108,Scott Armstrong,1983,04.05.1959,Marietta Georgia,33.912473,-84.557181
+109,Joe Gacy,2006,08.08.1987,Franklinville New Jersey,39.59823,-75.035749
+110,Kacy Catanzaro,19.04.2018,14.01.1990,Glen Ridge New Jersey,40.807499,-74.205039
+111,Paul Ellering,1.1978,22.08.1953,Melrose Minnesota,45.67469,-94.80752
+112,Jake Atlas,06.08.2016,05.10.1994,El Monte California,34.078573,-118.043456
+113,Gigi Dolin,3.2015,05.06.1997,Douglasville Georgia,33.759543,-84.777337
+114,Chad Patton,1996,05.05.1976,Urbana Illinois,40.108966,-88.211024
+115,Leon Ruff,16.06.2017,14.04.1996,Pensacola Florida,30.428781,-87.222516
+116,Ari Sterling,2005,28.10.1986,Lexington Kentucky,38.016674,-84.486043
+117,Nash Carter,17.12.2014,29.04.1994,Dayton Ohio,39.750471,-84.268593
+118,Dan Engler,06.07.1996,20.11.1977,Evansville Indiana,37.997128,-87.574963
+119,Mace,01.02.2016,05.02.1991,North Easton Massachusetts,42.055136,-71.081416
+120,Pat McAfee,22.08.2020,02.05.1987,Plum Pennsylvania,40.500346,-79.749491
+121,Scott Stanford,2009,30.08.1966,Haverstraw New York,41.191694,-73.964933
+122,Tyler Rust,27.03.2004,26.01.1987,Phelan California,34.839964,-115.967051
+123,Asher Hale,2002,29.12.1984,Augusta Georgia,33.456687,-81.969184
+124,Andre Chase,6.2008,22.04.1989,Draper North Carolina,0,0
+125,Malcolm Bivens,18.04.2014,12.11.,New York City New York,40.750422,-73.996328
+126,Sarath Ton,2002,09.06.1983,Springfield Massachusetts,42.170731,-72.604842
+127,Jessi Kamea,07.10.2017,10.10.1988,Austin Texas,30.268335,-97.741382
+128,Jessika Carr,2010,25.06.1991,Baltimore Maryland,39.296536,-76.623489
+129,Pat Buck,2003,24.12.1984,New York City New York,40.750422,-73.996328
+130,Cora Jade,09.12.2018,14.01.2001,Chicago Illinois,41.88531,-87.62213
+131,Rick Boogs,19.10.2017,01.12.1987,Franklin Wisconsin,42.887289,-88.009597
+132,Shawn Bennett,2002,25.10.1987,Butler New Jersey,40.998797,-74.426148
+133,Mike Rome,20.05.2016,08.10.1981,San Diego California,32.724103,-117.170912
+134,Stephon Smith,2007,21.08.1989,Baltimore Maryland,39.296536,-76.623489
+135,Zayda Ramier,2018,10.09.,Gilbertown Alabama,31.8771,-88.32141
+136,Cal Bloom,03.05.2019,1994,Osseo Minnesota,45.124263,-93.499583
+137,Top Dolla,25.10.2018,07.05.1990,Washington District Of Columbia,38.911936,-77.016719
+138,Odyssey Jones,07.11.2019,17.05.1994,Coram New York,40.88124,-73.00588
+139,Danilo Anfibio,2002,29.10.1987,West Paterson New Jersey,40.889821,-74.194867
