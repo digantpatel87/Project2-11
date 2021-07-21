@@ -24,7 +24,8 @@ from sqlalchemy.sql.expression import false
 
 # %%
 # Variable to hold csv files
-csvfile = ["Resources/event_match.csv", "Resources/wrestlers_data.csv","Resources/wrestlers_data_withLatLon.csv"]
+csvfile = ["Resources/event_match.csv", "Resources/wrestlers_data.csv",
+           "Resources/wrestlers_data_withLatLon.csv"]
 
 # Setup database
 engine = create_engine("sqlite:///wrestling.sqlite")
@@ -37,7 +38,6 @@ Base = declarative_base()
 
 
 # %%
-
 
 
 # %%
@@ -63,7 +63,8 @@ wwelatlon = wwelatlon_df.to_dict(orient='records')
 
 # %%
 wwe_df = wwe_df.to_sql('wrestling', con=engine, if_exists='replace')
-wwelatlon_df = wwelatlon_df.to_sql('wwelatlon', con=engine, if_exists='replace')
+wwelatlon_df = wwelatlon_df.to_sql(
+    'wwelatlon', con=engine, if_exists='replace')
 
 engine.execute("SELECT * FROM wrestling").fetchall()
 
@@ -80,7 +81,6 @@ inspector.get_table_names()
 # Flask setup and routes
 
 
-
 #################################################
 # Flask Setup
 #################################################
@@ -90,38 +90,42 @@ app = Flask(__name__)
 @app.route('/')
 def index():
     return render_template('index.html')
-    
+
+
 @app.route('/index')
 def index1():
     return render_template('index.html')
+
 
 @app.route('/about')
 def about():
     return render_template('about.html')
 
+
 @app.route('/dashboard')
 def dashboard():
     return render_template('dashboard.html')
+
 
 @app.route('/bio')
 def bio():
     return render_template('bio.html')
 
+
 @app.route("/api/wrestlingdata")
 def wrestlingdata():
     # con = sqlite3.connect ("wrestling.sqlite")
     # con.row_factory = sqlite3.Row
-    
+
     # cur = con.cursor()
     # results = cur.execute("select Rank, Name from wrestling")
-    
+
     con = sqlite3.connect("wrestling.sqlite")
-    df = pd.read_sql_query("select Rank,Name,Height,Weight,Rating,Votes,City,State,Country from wrestling", con)
+    df = pd.read_sql_query(
+        "select Rank,Name,Height,Weight,Rating,Votes,City,State,Country from wrestling", con)
 
     # Verify that result of SQL query is stored in the dataframe
     # print(df.head())
-
-
 
     # print(results)
     # rank = [result[0] for result in results]
@@ -131,9 +135,10 @@ def wrestlingdata():
     #     "Rank": rank,
     #     "Name": name
     # }]
-    # rows = cur.fetchall(); 
+    # rows = cur.fetchall();
     # return jsonify(wrestlingdata_data)
     return df.to_csv()
+
 
 @app.route("/api/wwelatlon")
 def wwelatlondata():
@@ -141,11 +146,9 @@ def wwelatlondata():
     df = pd.read_sql_query("select * from wwelatlon", con)
     return df.to_csv()
 
+
 if __name__ == '__main__':
     app.run(debug=True)
 
 
 # %%
-
-
-
